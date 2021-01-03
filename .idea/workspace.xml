@@ -1,0 +1,1632 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AnalysisUIOptions">
+    <option name="GROUP_BY_SEVERITY" value="true" />
+  </component>
+  <component name="BookmarkManager">
+    <bookmark url="file://$PROJECT_DIR$/src/main/java/javabase/NumberTest.java" line="69" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="7c4757a9-3332-4108-baf4-fc7fc86c4e74" name="Default" comment="" />
+    <ignored path="$PROJECT_DIR$/out/" />
+    <ignored path="$PROJECT_DIR$/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="study_demo" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="ConcurrentHashMap.java" pinned="false" current-in-tab="false">
+        <entry file="jar://D:/devsoft/java/jdk/1.11/lib/src.zip!/java.base/java/util/concurrent/ConcurrentHashMap.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="281">
+              <caret line="593" column="43" selection-start-line="593" selection-start-column="4" selection-end-line="593" selection-end-column="43" />
+              <folding>
+                <element signature="e#32768#32769#0" expanded="true" />
+                <element signature="e#32819#32820#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="LruCache.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/algo/LruCache.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="792">
+              <caret line="83" column="1" lean-forward="true" selection-start-line="6" selection-end-line="83" selection-end-column="1" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#422#423#0" expanded="true" />
+                <element signature="e#457#458#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="FiFoCache.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/algo/FiFoCache.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="809">
+              <caret line="70" lean-forward="true" selection-start-line="7" selection-end-line="70" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="quickSort.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/algo/sort/quickSort.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="68">
+              <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="SnippetTemplate.class" pinned="false" current-in-tab="false">
+        <entry file="jrt://D:/devsoft/java/jdk/1.11!/jdk.internal.vm.compiler/org/graalvm/compiler/replacements/SnippetTemplate.class">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="459">
+              <caret line="1266" column="5" lean-forward="true" selection-start-line="1254" selection-start-column="4" selection-end-line="1266" selection-end-column="5" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="LRUCache3.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/algo/LRUCache3.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="85">
+              <caret line="5" selection-start-line="5" selection-end-line="18" selection-end-column="1" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#436#437#0" expanded="true" />
+                <element signature="e#497#498#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="LRUCache2.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/algo/LRUCache2.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="724">
+              <caret line="92" column="1" lean-forward="true" selection-start-line="5" selection-end-line="92" selection-end-column="1" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="pom.xml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="561">
+              <caret line="33" column="44" selection-start-line="33" selection-start-column="44" selection-end-line="33" selection-end-column="44" />
+            </state>
+          </provider>
+          <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
+        </entry>
+      </file>
+      <file leaf-file-name="LruCache.java" pinned="false" current-in-tab="false">
+        <entry file="jar://D:/respository_study/org/mybatis/mybatis/3.5.6/mybatis-3.5.6-sources.jar!/org/apache/ibatis/cache/decorators/LruCache.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="102">
+              <caret line="32" lean-forward="true" selection-start-line="32" selection-end-line="32" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="LruCache.class" pinned="false" current-in-tab="false">
+        <entry file="jar://D:/respository_study/org/mybatis/mybatis/3.5.6/mybatis-3.5.6.jar!/org/apache/ibatis/cache/decorators/LruCache.class">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="102">
+              <caret line="12" column="13" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JUnit5 Test Class" />
+        <option value="Interface" />
+        <option value="Enum" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindBugs-IDEA-Workspace">
+    <toolWindowEditorPreview>false</toolWindowEditorPreview>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>double</find>
+      <find>10.126.86.81</find>
+      <find>10.126.102.74</find>
+      <find>10.126.102.146</find>
+      <find>10.126.102.147</find>
+      <find>10.126.102.69</find>
+      <find>Main</find>
+      <find>corePoolSize</find>
+      <find>outcome</find>
+      <find>finalize</find>
+      <find>threadFactory</find>
+      <find>termination</find>
+      <find>workQueue</find>
+      <find>awaitDone</find>
+      <find>processWorkerExit</find>
+      <find>guav</find>
+      <find>commons</find>
+      <find>400</find>
+      <find>combinedHash</find>
+      <find>mightContain</find>
+      <find>ad</find>
+      <find>accessOrder</find>
+      <find>https://time.geekbang.org/serv/v1/column/newAll</find>
+      <find>lm_dws_sem_keyword_day_hour</find>
+      <find>lm_dws_sem_keyword_day</find>
+      <find>rehash</find>
+      <find>oldCap</find>
+      <find>newCap</find>
+      <find>fh</find>
+      <find>LRUCache</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>CircularQueue</replace>
+      <replace>LRUCache2</replace>
+    </replaceStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/main/java/java8/Dish.java" />
+        <option value="$PROJECT_DIR$/src/main/java/java8/StreamTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/java8plus/Counter.java" />
+        <option value="$PROJECT_DIR$/src/main/java/java8plus/StreamTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/jmh/JMHTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/listtest/ListTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/list/ListTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/utils/BitMap.java" />
+        <option value="$PROJECT_DIR$/src/main/java/date/FormatTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/guava/GuavaCacheTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/date/DateTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/java8plus/LambdaTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/dsp/RtTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/dsp/MemeryTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/dragonwell/Sleep.java" />
+        <option value="$PROJECT_DIR$/src/main/java/guava/BloomFilterTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/spring/Query.java" />
+        <option value="$PROJECT_DIR$/src/main/java/num/Bigdecimal.java" />
+        <option value="$PROJECT_DIR$/src/main/java/num/BigDecimalTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/date/DateUtils2.java" />
+        <option value="$PROJECT_DIR$/src/main/java/num/NumberTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/date/DateUtils.java" />
+        <option value="$PROJECT_DIR$/src/main/java/javabase/BigDecaimalTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/javabase/StringTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/collection/MapTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/collection/HashMapTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/collection/ListTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/json/FastJsonTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/jvm/Demo1.java" />
+        <option value="$PROJECT_DIR$/src/main/java/utils/MD5Utils.java" />
+        <option value="$PROJECT_DIR$/src/main/java/nio/NIOTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/nio/SelectorServerTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/nio/SelectorClintTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/guava/RateLImiterTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/guava/RateLimiterTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/io/IOTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/dsp/SignUtils.java" />
+        <option value="$PROJECT_DIR$/src/main/java/guava/JoinTest.java" />
+        <option value="D:/study/leetcode/leetcode/editor/cn/[1]两数之和.java" />
+        <option value="$PROJECT_DIR$/src/main/java/leetcode/IntegerReverse.java" />
+        <option value="$PROJECT_DIR$/src/main/java/leetcode/LongestCommonPrefix.java" />
+        <option value="$PROJECT_DIR$/src/main/java/leetcode/ReverseLinkedList.java" />
+        <option value="$PROJECT_DIR$/src/main/java/leetcode/ReverseString.java" />
+        <option value="$PROJECT_DIR$/src/main/java/leetcode/ValidParentheses.java" />
+        <option value="$PROJECT_DIR$/src/main/java/leetcode/SumOfTwoIntegers.java" />
+        <option value="$PROJECT_DIR$/src/main/java/leetcode/TwoSum.java" />
+        <option value="$PROJECT_DIR$/src/main/java/algo/LruCache.java" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/src/main/java/algo/LRUCache3.java" />
+        <option value="$PROJECT_DIR$/src/main/java/algo/LRUCache2.java" />
+        <option value="$PROJECT_DIR$/src/main/java/algo/FiFoCache.java" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="D:\respository_study" />
+        <option name="userSettingsFile" value="D:\devsoft\maven\apache-maven-3.5.3\conf\settings_study.xml" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="study_demo Maven Webapp" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="study_demo Maven Webapp" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Lifecycle" type="58874e2:MavenProjectsStructure$LifecycleNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="study_demo Maven Webapp" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Dependencies" type="f4be9f2a:MavenProjectsStructure$DependenciesNode" />
+        </path>
+      </expand>
+      <select />
+    </treeState>
+  </component>
+  <component name="NodePackageJsonFileManager">
+    <packageJsonPaths />
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-295" />
+    <option name="y" value="-1088" />
+    <option name="width" value="1936" />
+    <option name="height" value="1056" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="study_demo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="study_demo" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="PackagesPane" />
+      <pane id="AndroidView" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="SearchEverywhereHistoryKey" value="LRUCache&#9;PSI&#9;JAVA://org.graalvm.compiler.replacements.SnippetTemplate.LRUCache&#10;LRUC&#9;FILE&#9;jar://D:/respository_study/org/mybatis/mybatis/3.5.6/mybatis-3.5.6.jar!/org/apache/ibatis/cache/decorators/LruCache.class&#10;MyBatis&#9;FILE&#9;jar://D:/respository_study/org/mybatis/mybatis/3.5.6/mybatis-3.5.6.jar!/META-INF/maven/org.mybatis/mybatis&#10;ConcurrentHashMap&#9;PSI&#9;JAVA://java.util.concurrent.ConcurrentHashMap&#10;RateLimiter&#9;PSI&#9;JAVA://com.google.common.util.concurrent.RateLimiter&#10;HashMap&#9;FILE&#9;jar://D:/devsoft/java/jdk/1.11/lib/src.zip!/java.base/java/util/HashMap.java&#10;ProxyGenerator&#9;PSI&#9;JAVA://java.lang.reflect.ProxyGenerator&#10;ThreadLocal&#9;FILE&#9;jar://D:/devsoft/java/jdk/1.11/lib/src.zip!/java.base/java/lang/ThreadLocal.java&#10;AbstractBoo&#9;PSI&#9;JAVA://io.netty.bootstrap.AbstractBootstrap&#10;LocalCache&#9;PSI&#9;JAVA://com.google.common.cache.LocalCache&#10;PointRange&#9;PSI&#9;JAVA://org.apache.lucene.search.PointRangeQuery&#10;BitSet&#9;PSI&#9;JAVA://java.util.BitSet&#10;IntStream&#9;PSI&#9;JAVA://java.util.stream.IntStream&#10;BloomFilter&#9;FILE&#9;jar://D:/respository_study/com/google/guava/guava/28.2-jre/guava-28.2-jre-sources.jar!/com/google/common/hash/BloomFilter.java&#10;ReentrantLock&#9;FILE&#9;jar://D:/devsoft/java/jdk/1.8/src.zip!/java/util/concurrent/locks/ReentrantLock.java&#10;Mutex&#9;FILE&#9;jar://D:/devsoft/java/jdk/1.8/src.zip!/com/sun/corba/se/impl/orbutil/concurrent/Mutex.java&#10;Lock&#9;FILE&#9;jar://D:/devsoft/java/jdk/1.8/jre/lib/rt.jar!/sun/misc/Lock.class&#10;Suggest&#9;PSI&#9;JAVA://org.elasticsearch.search.suggest.Suggest&#10;Lucene&#9;PSI&#9;JAVA://org.elasticsearch.common.lucene.Lucene&#10;Executors&#9;PSI&#9;JAVA://java.util.concurrent.Executors&#10;ArrayContainer&#9;PSI&#9;JAVA://org.roaringbitmap.ArrayContainer&#10;AbstractPatriciaTrie&#9;PSI&#9;JAVA://org.apache.commons.collections4.trie.AbstractPatriciaTrie&#10;Patri&#9;PSI&#9;JAVA://org.elasticsearch.common.path.PathTrie&#10;AtomicInt&#9;PSI&#9;JAVA://javabase.AtomicIntegerTest&#10;SoftRe&#9;PSI&#9;JAVA://java.lang.ref.SoftReference&#10;Cleaner&#9;PSI&#9;JAVA://java.lang.ref.Cleaner&#10;Integer&#9;FILE&#9;jar://D:/devsoft/java/jdk/1.11/lib/src.zip!/java.base/java/lang/Integer.java&#10;AbstracList&#9;PSI&#9;JAVA://java.util.AbstractList&#10;EventBus&#9;PSI&#9;JAVA://com.google.common.eventbus.EventBus&#10;processWorkerExit&#9;PSI&#9;JAVA://java.util.concurrent.ThreadPoolExecutor#processWorkerExit&#10;ArrayList&#9;PSI&#9;JAVA://java.util.ArrayList&#10;CyclicBarrier&#9;PSI&#9;JAVA://juc.CyclicBarrierDemo&#10;CountDownL&#9;PSI&#9;JAVA://juc.CountDownLatchDemo&#10;Arrays&#9;FILE&#9;jar://D:/devsoft/java/jdk/1.8/src.zip!/java/util/Arrays.java&#10;Synchron&#9;PSI&#9;JAVA://com.google.common.collect.Synchronized&#10;BeanConfig&#9;PSI&#9;JAVA://org.springframework.beans.factory.wiring.BeanConfigurerSupport&#10;Thread&#9;FILE&#9;jar://D:/devsoft/java/jdk/1.8/src.zip!/java/util/concurrent/ThreadPoolExecutor.java&#10;AnnotationAsync&#9;PSI&#9;JAVA://org.springframework.scheduling.annotation.AnnotationAsyncExecutionInterceptor&#10;TaskExecutor&#9;PSI&#9;JAVA://org.springframework.core.task.TaskExecutor&#10;Future&#9;FILE&#9;jar://D:/devsoft/java/jdk/1.8/jre/lib/rt.jar!/java/util/concurrent/Future.class&#10;ThreadPoolEx&#9;PSI&#9;JAVA://java.util.concurrent.ThreadPoolExecutor&#10;Runn&#9;FILE&#9;jar://D:/devsoft/java/jdk/1.8/src.zip!/java/lang/Runnable.java&#10;Calla&#9;PSI&#9;JAVA://java.util.concurrent.Callable&#10;Stack&#9;PSI&#9;JAVA://io.netty.util.Recycler.Stack&#10;Supp&#9;FILE&#9;jar://D:/devsoft/java/jdk/1.8/src.zip!/java/util/function/Supplier.java&#10;ForkJoinPool&#9;PSI&#9;JAVA://java.util.concurrent.ForkJoinPool&#10;Comple&#9;FILE&#9;jar://D:/devsoft/java/jdk/1.8/src.zip!/java/util/concurrent/CompletableFuture.java&#10;Complete&#9;PSI&#9;JAVA://sun.nio.ch.CompletedFuture&#10;Supplier&#9;FILE&#9;jar://D:/devsoft/java/jdk/1.8/src.zip!/java/util/function/Supplier.java&#10;Obj&#9;FILE&#9;jar://D:/devsoft/java/jdk/1.8/src.zip!/java/lang/Object.java" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit5" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5" value="" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../yangge" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.46373627" />
+    <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="design.behavioral.strategy" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="design.behavioral.strategy" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="dsp" />
+      <recent name="utils" />
+      <recent name="interview" />
+      <recent name="thread" />
+      <recent name="algo.queue" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\workspace\study\study_demo\src\main\java\date" />
+      <recent name="D:\workspace\study\study_demo\src\main\java\design\behavioral\template" />
+    </key>
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="utils" />
+    </key>
+  </component>
+  <component name="RestServicesNavigator">
+    <treeState>
+      <expand />
+      <select />
+    </treeState>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.SumOfTwoIntegers">
+    <configuration name="IntegerReverse" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="leetcode.IntegerReverse" />
+      <module name="study_demo" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="leetcode.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration name="LongestCommonPrefix" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="leetcode.LongestCommonPrefix" />
+      <module name="study_demo" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="leetcode.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration name="ReverseString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="leetcode.ReverseString" />
+      <module name="study_demo" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="leetcode.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration name="SumOfTwoIntegers" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="leetcode.SumOfTwoIntegers" />
+      <module name="study_demo" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="leetcode.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration name="ValidParentheses" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="leetcode.ValidParentheses" />
+      <module name="study_demo" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="leetcode.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <patterns />
+    </configuration>
+    <configuration default="true" type="TestNG" factoryName="TestNG">
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <properties />
+      <listeners />
+    </configuration>
+    <list>
+      <item itemvalue="Application.IntegerReverse" />
+      <item itemvalue="Application.LongestCommonPrefix" />
+      <item itemvalue="Application.ReverseString" />
+      <item itemvalue="Application.ValidParentheses" />
+      <item itemvalue="Application.SumOfTwoIntegers" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.SumOfTwoIntegers" />
+        <item itemvalue="Application.ValidParentheses" />
+        <item itemvalue="Application.ReverseString" />
+        <item itemvalue="Application.LongestCommonPrefix" />
+        <item itemvalue="Application.IntegerReverse" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7c4757a9-3332-4108-baf4-fc7fc86c4e74" name="Default" comment="" />
+      <created>1526176794510</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1526176794510</updated>
+      <workItem from="1526176797608" duration="1624000" />
+      <workItem from="1526625693411" duration="18897000" />
+      <workItem from="1526868126948" duration="4319000" />
+      <workItem from="1527147663821" duration="833000" />
+      <workItem from="1527235865890" duration="2431000" />
+      <workItem from="1527479668912" duration="711000" />
+      <workItem from="1527507691509" duration="1546000" />
+      <workItem from="1527677044445" duration="8118000" />
+      <workItem from="1527835616497" duration="1279000" />
+      <workItem from="1528191723577" duration="3581000" />
+      <workItem from="1528382212064" duration="585000" />
+      <workItem from="1528555596561" duration="19557000" />
+      <workItem from="1528979271358" duration="4530000" />
+      <workItem from="1529308582785" duration="3641000" />
+      <workItem from="1529560838373" duration="735000" />
+      <workItem from="1529897055416" duration="10093000" />
+      <workItem from="1530009526215" duration="1379000" />
+      <workItem from="1530086095762" duration="4858000" />
+      <workItem from="1530238854844" duration="1002000" />
+      <workItem from="1530611425524" duration="923000" />
+      <workItem from="1530612560312" duration="740000" />
+      <workItem from="1530616074919" duration="1860000" />
+      <workItem from="1530688346858" duration="60000" />
+      <workItem from="1531999105671" duration="727000" />
+      <workItem from="1532071191140" duration="5656000" />
+      <workItem from="1532349586247" duration="4043000" />
+      <workItem from="1532488655609" duration="7467000" />
+      <workItem from="1532917158734" duration="28000" />
+      <workItem from="1533028534254" duration="6731000" />
+      <workItem from="1533268901370" duration="3051000" />
+      <workItem from="1533539847486" duration="14607000" />
+      <workItem from="1534215107924" duration="1096000" />
+      <workItem from="1534216399639" duration="2866000" />
+      <workItem from="1534302915594" duration="1807000" />
+      <workItem from="1534399737441" duration="3701000" />
+      <workItem from="1534777928073" duration="21781000" />
+      <workItem from="1535359351863" duration="1773000" />
+      <workItem from="1535466356369" duration="30000" />
+      <workItem from="1535523142711" duration="9165000" />
+      <workItem from="1536161130408" duration="1193000" />
+      <workItem from="1536817756361" duration="626000" />
+      <workItem from="1536820456147" duration="6775000" />
+      <workItem from="1537178195378" duration="1197000" />
+      <workItem from="1537413239244" duration="155000" />
+      <workItem from="1537442725551" duration="1057000" />
+      <workItem from="1537972338523" duration="36000" />
+      <workItem from="1537972582658" duration="16000" />
+      <workItem from="1537972630891" duration="3188000" />
+      <workItem from="1538969250694" duration="24340000" />
+      <workItem from="1540089514174" duration="636000" />
+      <workItem from="1540350141849" duration="8467000" />
+      <workItem from="1540779678516" duration="7304000" />
+      <workItem from="1541646827218" duration="591000" />
+      <workItem from="1541682242072" duration="667000" />
+      <workItem from="1541751094593" duration="4810000" />
+      <workItem from="1542705188041" duration="761000" />
+      <workItem from="1542705959979" duration="895000" />
+      <workItem from="1542706871804" duration="616000" />
+      <workItem from="1542707497876" duration="59000" />
+      <workItem from="1542707627394" duration="628000" />
+      <workItem from="1542708267639" duration="3761000" />
+      <workItem from="1542871497682" duration="10040000" />
+      <workItem from="1543407451775" duration="9320000" />
+      <workItem from="1544845327843" duration="567000" />
+      <workItem from="1545470508317" duration="8147000" />
+      <workItem from="1545791297770" duration="2373000" />
+      <workItem from="1546504734240" duration="2068000" />
+      <workItem from="1546814690932" duration="1615000" />
+      <workItem from="1548293657492" duration="1870000" />
+      <workItem from="1548771766512" duration="473000" />
+      <workItem from="1549850212081" duration="596000" />
+      <workItem from="1549854729014" duration="6151000" />
+      <workItem from="1550198214007" duration="12269000" />
+      <workItem from="1551321764487" duration="643000" />
+      <workItem from="1551751926834" duration="56196000" />
+      <workItem from="1552270965937" duration="22073000" />
+      <workItem from="1552564485236" duration="3978000" />
+      <workItem from="1552644119470" duration="4131000" />
+      <workItem from="1553162326313" duration="9659000" />
+      <workItem from="1554112866957" duration="5294000" />
+      <workItem from="1554371216671" duration="18097000" />
+      <workItem from="1555306212361" duration="1246000" />
+      <workItem from="1555405384063" duration="5819000" />
+      <workItem from="1555898564919" duration="3625000" />
+      <workItem from="1556263404926" duration="6462000" />
+      <workItem from="1556432914016" duration="1195000" />
+      <workItem from="1556446536450" duration="3445000" />
+      <workItem from="1557028467783" duration="1733000" />
+      <workItem from="1557292584779" duration="222000" />
+      <workItem from="1557295586910" duration="1089000" />
+      <workItem from="1557383854391" duration="141000" />
+      <workItem from="1557442575664" duration="8019000" />
+      <workItem from="1557648760055" duration="8671000" />
+      <workItem from="1558424932582" duration="5966000" />
+      <workItem from="1558843068203" duration="4247000" />
+      <workItem from="1559116808911" duration="4607000" />
+      <workItem from="1559543336808" duration="1677000" />
+      <workItem from="1559617239009" duration="176000" />
+      <workItem from="1559617522764" duration="10136000" />
+      <workItem from="1560671090742" duration="1395000" />
+      <workItem from="1560748998288" duration="2984000" />
+      <workItem from="1560996882735" duration="39619000" />
+      <workItem from="1562216392881" duration="29000" />
+      <workItem from="1562554207143" duration="2112000" />
+      <workItem from="1562828275277" duration="1070000" />
+      <workItem from="1563198331564" duration="17000" />
+      <workItem from="1563270088012" duration="597000" />
+      <workItem from="1563439008179" duration="1048000" />
+      <workItem from="1563949230523" duration="18491000" />
+      <workItem from="1564367919765" duration="1499000" />
+      <workItem from="1564384026288" duration="11230000" />
+      <workItem from="1564566776313" duration="679000" />
+      <workItem from="1564654777768" duration="693000" />
+      <workItem from="1564975067026" duration="1396000" />
+      <workItem from="1564988279291" duration="5662000" />
+      <workItem from="1565318388841" duration="2525000" />
+      <workItem from="1565526381515" duration="36130000" />
+      <workItem from="1566741283863" duration="4739000" />
+      <workItem from="1566891327551" duration="5324000" />
+      <workItem from="1567044244078" duration="12112000" />
+      <workItem from="1567393518955" duration="827000" />
+      <workItem from="1567652773392" duration="8800000" />
+      <workItem from="1567751383977" duration="8284000" />
+      <workItem from="1568116794150" duration="705000" />
+      <workItem from="1568170703910" duration="615000" />
+      <workItem from="1568187176604" duration="643000" />
+      <workItem from="1568193117161" duration="8695000" />
+      <workItem from="1568883869827" duration="730000" />
+      <workItem from="1569468619761" duration="3004000" />
+      <workItem from="1571296725721" duration="2858000" />
+      <workItem from="1571304650685" duration="589000" />
+      <workItem from="1571307268572" duration="583000" />
+      <workItem from="1571311605891" duration="580000" />
+      <workItem from="1571312775736" duration="8831000" />
+      <workItem from="1571471326372" duration="3685000" />
+      <workItem from="1571650841498" duration="592000" />
+      <workItem from="1571757146352" duration="10455000" />
+      <workItem from="1572313698674" duration="1231000" />
+      <workItem from="1572437266499" duration="702000" />
+      <workItem from="1573094478093" duration="22679000" />
+      <workItem from="1574060170951" duration="571000" />
+      <workItem from="1574076167851" duration="2063000" />
+      <workItem from="1574153736753" duration="480000" />
+      <workItem from="1574154234343" duration="1492000" />
+      <workItem from="1574226198936" duration="4000" />
+      <workItem from="1574235240861" duration="23836000" />
+      <workItem from="1575289420649" duration="36000" />
+      <workItem from="1575704029605" duration="4133000" />
+      <workItem from="1575871759409" duration="20300000" />
+      <workItem from="1576218329859" duration="52161000" />
+      <workItem from="1578041068950" duration="19334000" />
+      <workItem from="1579597679553" duration="94366000" />
+      <workItem from="1581749953471" duration="27101000" />
+      <workItem from="1582633141568" duration="13322000" />
+      <workItem from="1583291929467" duration="12824000" />
+      <workItem from="1583892784658" duration="6775000" />
+      <workItem from="1584328615970" duration="4511000" />
+      <workItem from="1584617125431" duration="12542000" />
+      <workItem from="1585301380534" duration="12734000" />
+      <workItem from="1585617751161" duration="9289000" />
+      <workItem from="1585812691360" duration="1312000" />
+      <workItem from="1585904053373" duration="1710000" />
+      <workItem from="1586329602547" duration="6970000" />
+      <workItem from="1586355189595" duration="28970000" />
+      <workItem from="1586745126941" duration="10244000" />
+      <workItem from="1586916901918" duration="5496000" />
+      <workItem from="1587209328784" duration="6261000" />
+      <workItem from="1587369649792" duration="742000" />
+      <workItem from="1587439251971" duration="845000" />
+      <workItem from="1587459575518" duration="4240000" />
+      <workItem from="1587623749972" duration="1858000" />
+      <workItem from="1589772768249" duration="3428000" />
+      <workItem from="1590718567622" duration="678000" />
+      <workItem from="1590979457635" duration="14307000" />
+      <workItem from="1591248878564" duration="4210000" />
+      <workItem from="1591339398109" duration="39447000" />
+      <workItem from="1591874476115" duration="9252000" />
+      <workItem from="1592813391719" duration="1189000" />
+      <workItem from="1593310483348" duration="4454000" />
+      <workItem from="1594262239186" duration="2954000" />
+      <workItem from="1594974177049" duration="1895000" />
+      <workItem from="1595314107850" duration="4317000" />
+      <workItem from="1595772238875" duration="5090000" />
+      <workItem from="1596078598986" duration="4630000" />
+      <workItem from="1596436208567" duration="5769000" />
+      <workItem from="1596780214066" duration="1214000" />
+      <workItem from="1597052781189" duration="21000" />
+      <workItem from="1597139698480" duration="621000" />
+      <workItem from="1597226112473" duration="2478000" />
+      <workItem from="1597319476346" duration="2961000" />
+      <workItem from="1597817609262" duration="5014000" />
+      <workItem from="1598340500594" duration="3326000" />
+      <workItem from="1598866102686" duration="2379000" />
+      <workItem from="1599705400146" duration="789000" />
+      <workItem from="1602667997605" duration="2960000" />
+      <workItem from="1602742405143" duration="15000" />
+      <workItem from="1602833722123" duration="631000" />
+      <workItem from="1603077600185" duration="5002000" />
+      <workItem from="1603681361525" duration="844000" />
+      <workItem from="1603866110786" duration="860000" />
+      <workItem from="1603955591064" duration="2729000" />
+      <workItem from="1604286458849" duration="5509000" />
+      <workItem from="1604456488767" duration="100000" />
+      <workItem from="1604995709340" duration="741000" />
+      <workItem from="1605247100565" duration="1019000" />
+      <workItem from="1605256935223" duration="625000" />
+      <workItem from="1605588659784" duration="1946000" />
+      <workItem from="1606292964580" duration="21216000" />
+      <workItem from="1607068745128" duration="2406000" />
+      <workItem from="1607250991134" duration="2915000" />
+      <workItem from="1607497154227" duration="192000" />
+      <workItem from="1607501518139" duration="2455000" />
+      <workItem from="1608117442046" duration="18354000" />
+      <workItem from="1608963057589" duration="3032000" />
+      <workItem from="1608970110886" duration="21037000" />
+      <workItem from="1609488434877" duration="7439000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="FastJsonTest_test77 - 2020.12.04 at 16h 09m 48s.xml">
+      <configuration name="FastJsonTest.test77" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="FastJsonTest_test77 - 2020.12.04 at 16h 10m 18s.xml">
+      <configuration name="FastJsonTest.test77" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="FastJsonTest_test77 - 2020.12.04 at 16h 16m 02s.xml">
+      <configuration name="FastJsonTest.test77" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="FastJsonTest_test77 - 2020.12.04 at 16h 28m 54s.xml">
+      <configuration name="FastJsonTest.test77" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="FastJsonTest_test77 - 2020.12.04 at 16h 29m 15s.xml">
+      <configuration name="FastJsonTest.test77" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="FastJsonTest_test77 - 2020.12.09 at 14h 38m 46s.xml">
+      <configuration name="FastJsonTest.test77" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="JoinTest_test1 - 2020.12.26 at 14h 11m 38s.xml">
+      <configuration name="JoinTest.test1" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="JoinTest_test3 - 2020.12.26 at 14h 14m 23s.xml">
+      <configuration name="JoinTest.test3" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="JoinTest_test4 - 2020.12.26 at 14h 17m 21s.xml">
+      <configuration name="JoinTest.test4" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="JoinTest_test4 - 2020.12.26 at 16h 14m 27s.xml">
+      <configuration name="JoinTest.test4" configurationId="JUnit" />
+    </history-entry>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="1333056000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-295" y="-1088" width="1936" height="1056" extended-state="6" />
+    <layout>
+      <window_info anchor="right" id="Palette" order="4" />
+      <window_info anchor="bottom" id="FindBugs-IDEA" order="8" weight="0.3281075" />
+      <window_info anchor="right" id="RestServices" order="10" weight="0.32995737" />
+      <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.5042644" side_tool="true" weight="0.32922733" />
+      <window_info anchor="bottom" id="JRebel Console" order="13" side_tool="true" />
+      <window_info anchor="right" id="Maven Projects" order="6" weight="0.3290469" />
+      <window_info anchor="bottom" id="Database Changes" order="11" show_stripe_button="false" />
+      <window_info anchor="bottom" id="JRebel Executor" order="15" />
+      <window_info id="Designer" order="3" />
+      <window_info anchor="bottom" id="Statistic" order="18" />
+      <window_info anchor="bottom" id="Docker" order="22" show_stripe_button="false" />
+      <window_info anchor="right" id="LuaJ" order="11" />
+      <window_info anchor="bottom" id="Tail" order="17" />
+      <window_info anchor="right" id="Database" order="7" weight="0.32995737" />
+      <window_info id="Structure" order="0" sideWeight="0.30151844" side_tool="true" weight="0.27458397" />
+      <window_info anchor="right" id="Ant Build" order="2" weight="0.25" />
+      <window_info id="UI Designer" order="4" />
+      <window_info anchor="bottom" id="Debug" order="4" sideWeight="0.49924356" weight="0.33370662" />
+      <window_info anchor="bottom" id="TODO" order="7" weight="0.32922733" />
+      <window_info anchor="right" id="Palette&#9;" order="8" />
+      <window_info anchor="bottom" id="Java Enterprise" order="12" weight="0.32922733" />
+      <window_info anchor="bottom" id="Version Control" order="14" show_stripe_button="false" />
+      <window_info anchor="right" id="leetcode" order="1" side_tool="true" weight="0.32942432" />
+      <window_info anchor="bottom" id="Run" order="3" sideWeight="0.49546143" weight="0.16237402" />
+      <window_info anchor="bottom" id="Spring" order="23" />
+      <window_info anchor="bottom" id="Terminal" order="10" sideWeight="0.49924126" weight="0.3549832" />
+      <window_info active="true" content_ui="combo" id="Project" order="9" sideWeight="0.69848156" visible="true" weight="0.32675907" />
+      <window_info anchor="bottom" id="Run with VisualVM" order="19" />
+      <window_info id="Web" order="6" sideWeight="0.29899216" side_tool="true" weight="0.23240939" />
+      <window_info id="JRebel" order="7" sideWeight="0.29899216" side_tool="true" weight="0.23240939" />
+      <window_info id="Favorites" order="8" sideWeight="0.29899216" side_tool="true" weight="0.23240939" />
+      <window_info anchor="bottom" id="Debug with VisualVM" order="20" />
+      <window_info anchor="bottom" id="Inspection Results" order="0" weight="0.21640489" />
+      <window_info id="Capture Tool" order="2" />
+      <window_info anchor="bottom" id="Cvs" order="5" weight="0.25" />
+      <window_info id="Image Layers" order="5" />
+      <window_info anchor="right" id="Theme Preview" order="9" />
+      <window_info anchor="bottom" id="Inspection" order="6" weight="0.4" />
+      <window_info id="Learn" order="1" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="3" weight="0.25" />
+      <window_info anchor="bottom" id="Messages" order="16" sideWeight="0.49848714" weight="0.33034715" />
+      <window_info anchor="bottom" id="58 Scanner" order="21" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="bottom" id="Message" order="1" />
+      <window_info anchor="right" id="Capture Analysis" order="5" />
+      <window_info anchor="bottom" id="Find" order="2" sideWeight="0.49573562" weight="0.0" />
+    </layout>
+    <layout-to-restore>
+      <window_info anchor="bottom" id="FindBugs-IDEA" order="8" weight="0.3281075" />
+      <window_info anchor="right" id="LuaJ" order="11" />
+      <window_info anchor="bottom" id="Messages" order="16" sideWeight="0.49848714" weight="0.33034715" />
+      <window_info anchor="right" id="Palette" order="4" />
+      <window_info id="JRebel" order="7" sideWeight="0.29899216" side_tool="true" weight="0.23240939" />
+      <window_info anchor="bottom" id="Spring" order="23" />
+      <window_info id="Image Layers" order="5" />
+      <window_info active="true" anchor="bottom" id="Run" order="3" sideWeight="0.49546143" visible="true" weight="0.34767643" />
+      <window_info anchor="bottom" id="Cvs" order="5" weight="0.25" />
+      <window_info anchor="right" id="Ant Build" order="2" weight="0.25" />
+      <window_info id="Capture Tool" order="2" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Favorites" order="8" sideWeight="0.29899216" side_tool="true" weight="0.23240939" />
+      <window_info anchor="bottom" id="Terminal" order="10" sideWeight="0.49924126" weight="0.09518477" />
+      <window_info anchor="bottom" id="Docker" order="22" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.5045386" side_tool="true" weight="0.30636832" />
+      <window_info anchor="bottom" id="Inspection Results" order="0" weight="0.21640489" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info id="Designer" order="3" />
+      <window_info id="Learn" order="1" />
+      <window_info anchor="bottom" id="Statistic" order="18" />
+      <window_info anchor="bottom" id="TODO" order="7" weight="0.32922733" />
+      <window_info anchor="bottom" id="58 Scanner" order="21" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="3" weight="0.25" />
+      <window_info anchor="bottom" id="Run with VisualVM" order="19" />
+      <window_info anchor="bottom" id="Java Enterprise" order="12" weight="0.32922733" />
+      <window_info anchor="bottom" id="Database Changes" order="11" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="14" show_stripe_button="false" />
+      <window_info anchor="right" id="leetcode" order="1" side_tool="true" weight="0.32980332" />
+      <window_info anchor="right" id="Maven Projects" order="6" weight="0.3290469" />
+      <window_info anchor="right" id="Capture Analysis" order="5" />
+      <window_info id="Structure" order="0" sideWeight="0.30151844" side_tool="true" weight="0.27458397" />
+      <window_info anchor="bottom" id="Find" order="2" sideWeight="0.4969743" weight="0.41996557" />
+      <window_info anchor="bottom" id="JRebel Executor" order="15" />
+      <window_info content_ui="combo" id="Project" order="9" sideWeight="0.69848156" visible="true" weight="0.2685325" />
+      <window_info anchor="bottom" id="JRebel Console" order="13" side_tool="true" />
+      <window_info anchor="right" id="Database" order="7" weight="0.32995737" />
+      <window_info anchor="bottom" id="Message" order="1" />
+      <window_info anchor="bottom" id="Debug with VisualVM" order="20" />
+      <window_info id="Web" order="6" sideWeight="0.29899216" side_tool="true" weight="0.23240939" />
+      <window_info anchor="right" id="Palette&#9;" order="8" />
+      <window_info anchor="right" id="Theme Preview" order="9" />
+      <window_info anchor="right" id="RestServices" order="10" />
+      <window_info anchor="bottom" id="Inspection" order="6" weight="0.4" />
+      <window_info anchor="bottom" id="Tail" order="17" />
+      <window_info anchor="bottom" id="Debug" order="4" sideWeight="0.49924356" weight="0.33370662" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/netty/IOServer.java</url>
+          <line>23</line>
+          <properties />
+          <option name="timeStamp" value="23" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/netty/IOServer.java</url>
+          <line>16</line>
+          <properties />
+          <option name="timeStamp" value="24" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>jar://D:/devsoft/java/jdk/1.8/src.zip!/java/util/ArrayList.java</url>
+          <line>721</line>
+          <properties />
+          <option name="timeStamp" value="35" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/list/ListTest.java</url>
+          <line>319</line>
+          <properties />
+          <option name="timeStamp" value="36" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>jar://D:/devsoft/java/jdk/1.8/src.zip!/java/util/ArrayList.java</url>
+          <line>713</line>
+          <properties />
+          <option name="timeStamp" value="37" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>jar://D:/devsoft/java/jdk/1.8/jre/lib/rt.jar!/sun/management/ThreadImpl.class</url>
+          <line>322</line>
+          <properties />
+          <option name="timeStamp" value="40" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>jar://D:/devsoft/java/jdk/1.8/src.zip!/java/util/stream/AbstractPipeline.java</url>
+          <line>310</line>
+          <properties />
+          <option name="timeStamp" value="47" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/function/ParallelTest.java</url>
+          <line>22</line>
+          <properties />
+          <option name="timeStamp" value="48" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>jar://D:/respository_study/org/apache/commons/com.springsource.org.apache.commons.lang/2.1.0/com.springsource.org.apache.commons.lang-2.1.0-sources.jar!/org/apache/commons/lang/exception/ExceptionUtils.java</url>
+          <line>435</line>
+          <properties />
+          <option name="timeStamp" value="55" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>jar://D:/respository_study/org/apache/commons/com.springsource.org.apache.commons.lang/2.1.0/com.springsource.org.apache.commons.lang-2.1.0-sources.jar!/org/apache/commons/lang/exception/ExceptionUtils.java</url>
+          <line>433</line>
+          <properties />
+          <option name="timeStamp" value="56" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>jar://D:/respository_study/org/apache/commons/com.springsource.org.apache.commons.lang/2.1.0/com.springsource.org.apache.commons.lang-2.1.0-sources.jar!/org/apache/commons/lang/exception/ExceptionUtils.java</url>
+          <line>232</line>
+          <properties />
+          <option name="timeStamp" value="57" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>jar://D:/respository_study/org/apache/commons/com.springsource.org.apache.commons.lang/2.1.0/com.springsource.org.apache.commons.lang-2.1.0-sources.jar!/org/apache/commons/lang/exception/ExceptionUtils.java</url>
+          <line>298</line>
+          <properties />
+          <option name="timeStamp" value="61" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>jar://D:/respository_study/org/elasticsearch/elasticsearch/5.6.3/elasticsearch-5.6.3-sources.jar!/org/elasticsearch/ElasticsearchException.java</url>
+          <line>272</line>
+          <properties />
+          <option name="timeStamp" value="62" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>jar://D:/respository_study/org/apache/commons/com.springsource.org.apache.commons.lang/2.1.0/com.springsource.org.apache.commons.lang-2.1.0-sources.jar!/org/apache/commons/lang/exception/ExceptionUtils.java</url>
+          <line>716</line>
+          <properties />
+          <option name="timeStamp" value="63" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>jar://D:/respository_study/io/vertx/vertx-core/3.6.3/vertx-core-3.6.3-sources.jar!/io/vertx/core/http/impl/ConnectionManager.java</url>
+          <line>115</line>
+          <properties />
+          <option name="timeStamp" value="65" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>jar://D:/respository_study/io/vertx/vertx-core/3.6.3/vertx-core-3.6.3-sources.jar!/io/vertx/core/http/impl/HttpClientImpl.java</url>
+          <line>973</line>
+          <properties />
+          <option name="timeStamp" value="66" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>jar://D:/respository_study/io/vertx/vertx-core/3.6.3/vertx-core-3.6.3-sources.jar!/io/vertx/core/http/impl/HttpClientRequestImpl.java</url>
+          <line>484</line>
+          <properties />
+          <option name="timeStamp" value="67" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>jar://D:/respository_study/io/vertx/vertx-core/3.6.3/vertx-core-3.6.3-sources.jar!/io/vertx/core/http/impl/HttpClientRequestImpl.java</url>
+          <line>640</line>
+          <properties />
+          <option name="timeStamp" value="68" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>jar://D:/respository_study/io/vertx/vertx-core/3.6.3/vertx-core-3.6.3-sources.jar!/io/vertx/core/http/impl/HttpClientRequestImpl.java</url>
+          <line>575</line>
+          <properties />
+          <option name="timeStamp" value="69" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>jar://D:/respository_study/io/vertx/vertx-web-client/3.6.3/vertx-web-client-3.6.3.jar!/io/vertx/ext/web/client/impl/HttpContext.class</url>
+          <line>409</line>
+          <properties />
+          <option name="timeStamp" value="70" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>jar://D:/respository_study/io/vertx/vertx-web-client/3.6.3/vertx-web-client-3.6.3.jar!/io/vertx/ext/web/client/impl/HttpContext.class</url>
+          <line>185</line>
+          <properties />
+          <option name="timeStamp" value="71" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>jar://D:/respository_study/io/vertx/vertx-web-client/3.6.3/vertx-web-client-3.6.3.jar!/io/vertx/ext/web/client/impl/HttpContext.class</url>
+          <line>168</line>
+          <properties />
+          <option name="timeStamp" value="72" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>jar://D:/respository_study/io/vertx/vertx-web-client/3.6.3/vertx-web-client-3.6.3.jar!/io/vertx/ext/web/client/impl/predicate/PredicateInterceptor.class</url>
+          <line>62</line>
+          <properties />
+          <option name="timeStamp" value="73" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>jar://D:/respository_study/io/vertx/vertx-web-client/3.6.3/vertx-web-client-3.6.3.jar!/io/vertx/ext/web/client/impl/predicate/PredicateInterceptor.class</url>
+          <line>31</line>
+          <properties />
+          <option name="timeStamp" value="74" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/javabase/Dog.java</url>
+          <line>43</line>
+          <properties />
+          <option name="timeStamp" value="91" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/thread/ThreadLocalTest.java</url>
+          <line>19</line>
+          <properties />
+          <option name="timeStamp" value="92" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>jar://D:/devsoft/java/jdk/1.8/src.zip!/java/util/concurrent/FutureTask.java</url>
+          <line>230</line>
+          <properties />
+          <option name="timeStamp" value="99" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/async/AsyncWithResultDemo.java</url>
+          <line>14</line>
+          <properties />
+          <option name="timeStamp" value="100" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/async/Test.java</url>
+          <line>6</line>
+          <properties />
+          <option name="timeStamp" value="101" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/utils/RetryUtil.java</url>
+          <line>49</line>
+          <properties />
+          <option name="timeStamp" value="105" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/collection/IteratorTest.java</url>
+          <line>36</line>
+          <properties />
+          <option name="timeStamp" value="110" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>jar://D:/devsoft/java/jdk/1.11/lib/src.zip!/java.base/java/util/concurrent/atomic/AtomicLongArray.java</url>
+          <line>62</line>
+          <properties />
+          <option name="timeStamp" value="138" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://D:/respository_study/com/google/guava/guava/28.2-jre/guava-28.2-jre-sources.jar!/com/google/common/hash/BloomFilterStrategies.java</url>
+          <line>198</line>
+          <properties />
+          <option name="timeStamp" value="139" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://D:/respository_study/com/google/guava/guava/28.2-jre/guava-28.2-jre-sources.jar!/com/google/common/hash/BloomFilterStrategies.java</url>
+          <line>122</line>
+          <properties />
+          <option name="timeStamp" value="140" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://D:/devsoft/java/jdk/1.11/lib/src.zip!/java.base/java/util/LinkedHashMap.java</url>
+          <line>306</line>
+          <properties />
+          <option name="timeStamp" value="146" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://D:/respository_study/com/google/guava/guava/28.2-jre/guava-28.2-jre-sources.jar!/com/google/common/hash/BloomFilter.java</url>
+          <line>428</line>
+          <properties />
+          <option name="timeStamp" value="148" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://D:/respository_study/com/alibaba/fastjson/1.2.47/fastjson-1.2.47.jar!/com/alibaba/fastjson/parser/DefaultJSONParser.class</url>
+          <line>1311</line>
+          <properties />
+          <option name="timeStamp" value="150" />
+        </line-breakpoint>
+      </breakpoints>
+      <breakpoints-dialog>
+        <breakpoints-dialog />
+      </breakpoints-dialog>
+      <option name="time" value="152" />
+    </breakpoint-manager>
+  </component>
+  <component name="debuggerHistoryManager">
+    <expressions id="evaluateExpression">
+      <expression>
+        <expression-string>StringLatin1.compareTo(v1, v2)</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>isLatin1()</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>length</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>Ints.checkedCast(LongMath.divide(bits, 64, RoundingMode.CEILING))</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>bits.set((combinedHash &amp; Long.MAX_VALUE) % bitSize)</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>bitsChanged |= bits.set((combinedHash &amp; Long.MAX_VALUE) % bitSize)</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>(combinedHash &amp; Long.MAX_VALUE) % bitSize</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>combinedHash &amp; Long.MAX_VALUE</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>(b1 &amp; 0xFFL)</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+    </expressions>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/main/java/json/FastJsonTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="21" column="19" selection-start-line="21" selection-start-column="16" selection-end-line="21" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/java8plus/Counter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="17" column="31" selection-start-line="17" selection-start-column="31" selection-end-line="17" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/jvm/Demo1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="15" column="31" selection-start-line="15" selection-start-column="28" selection-end-line="15" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/utils/MD5Utils.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="549">
+          <caret line="42" column="31" selection-start-line="42" selection-start-column="31" selection-end-line="42" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/input.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/nio/NIOTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="18" column="15" selection-start-line="18" selection-start-column="12" selection-end-line="18" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/nio/SelectorClintTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="418">
+          <caret line="25" column="38" lean-forward="true" selection-start-line="25" selection-start-column="38" selection-end-line="25" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/nio/SelectorServerTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="380">
+          <caret line="31" column="26" lean-forward="true" selection-start-line="31" selection-start-column="26" selection-end-line="31" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="uml://JAVA/com.google.common.util.concurrent.RateLimiter">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>JAVA</ID>
+          <OriginalElement>com.google.common.util.concurrent.RateLimiter</OriginalElement>
+          <nodes>
+            <node x="" y="">com.google.common.annotations.GwtIncompatible</node>
+            <node x="" y="">com.google.common.util.concurrent.RateLimiter</node>
+            <node x="" y="">com.google.common.annotations.Beta</node>
+          </nodes>
+          <notes />
+          <edges />
+          <settings layout="Hierarchic Group" zoom="1.0" x="120.0" y="55.0" />
+          <SelectedNodes />
+          <Categories />
+          <SCOPE>All</SCOPE>
+          <VISIBILITY>private</VISIBILITY>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/guava/BloomFilterTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="527">
+          <caret line="41" column="38" selection-start-line="41" selection-start-column="38" selection-end-line="41" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/guava/GuavaCacheTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/devsoft/java/jdk/1.11/lib/src.zip!/java.base/java/util/HashMap.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="286">
+          <caret line="715" column="57" lean-forward="true" selection-start-line="715" selection-start-column="57" selection-end-line="715" selection-end-column="57" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/devsoft/java/jdk/1.11/lib/src.zip!/java.base/java/lang/reflect/ProxyGenerator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="115">
+          <caret line="321" column="52" lean-forward="true" selection-start-line="321" selection-start-column="52" selection-end-line="321" selection-end-column="52" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/guava/RateLimiterTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="177">
+          <caret line="13" column="22" selection-start-line="13" selection-start-column="22" selection-end-line="13" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/respository_study/com/google/guava/guava/28.2-jre/guava-28.2-jre-sources.jar!/com/google/common/util/concurrent/RateLimiter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="212">
+          <caret line="433" column="34" selection-start-line="433" selection-start-column="34" selection-end-line="433" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/respository_study/com/google/guava/guava/28.2-jre/guava-28.2-jre-sources.jar!/com/google/common/util/concurrent/SmoothRateLimiter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="314">
+          <caret line="354" column="6" selection-start-line="354" selection-start-column="6" selection-end-line="354" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/io/IOTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="14" column="20" selection-start-line="14" selection-start-column="20" selection-end-line="14" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/dsp/SignUtils.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="629">
+          <caret line="47" selection-start-line="47" selection-end-line="47" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/guava/JoinTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="14" column="23" selection-start-line="14" selection-start-column="23" selection-end-line="14" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/algo/queue/ArrayQueue.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-204">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/algo/queue/CircularQueue.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-748">
+          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/algo/queue/LinkedListQueue.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-816">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/algo/trie/BinaryIP.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="28" selection-start-line="28" selection-end-line="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/algo/trie/Trie.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/algo/queue/DynimacArrayQueue.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-969">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/algo/StackTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/algo/DynamicArrayStack.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/leetcode/HasCycle.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-459">
+          <caret line="15" column="13" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/leetcode/spiralOrder.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/leetcode/ThreeSum.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-238">
+          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/leetcode/RotateMatrixLcci.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/study/leetcode/leetcode/editor/cn/[1]两数之和.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="18" column="49" lean-forward="true" selection-start-line="18" selection-start-column="49" selection-end-line="18" selection-end-column="49" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/leetcode/LongestCommonPrefix.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="354">
+          <caret line="101" column="57" selection-start-line="101" selection-start-column="57" selection-end-line="101" selection-end-column="57" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/leetcode/ReverseLinkedList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="3" selection-start-line="5" selection-start-column="3" selection-end-line="5" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/leetcode/ReverseString.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" column="28" selection-start-line="11" selection-start-column="28" selection-end-line="11" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/leetcode/ValidParentheses.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="235">
+          <caret line="57" column="44" lean-forward="true" selection-start-line="57" selection-start-column="7" selection-end-line="57" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/leetcode/IntegerReverse.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="12" column="3" lean-forward="true" selection-start-line="12" selection-start-column="3" selection-end-line="12" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/leetcode/SumOfTwoIntegers.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="388">
+          <caret line="30" column="5" lean-forward="true" selection-start-line="23" selection-start-column="4" selection-end-line="30" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/leetcode/TwoSum.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="405">
+          <caret line="97" column="5" selection-start-line="73" selection-start-column="4" selection-end-line="97" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/leetcode/MoveZeros.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="663">
+          <caret line="39" column="5" lean-forward="true" selection-start-line="39" selection-start-column="5" selection-end-line="39" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/devsoft/java/jdk/1.11/lib/src.zip!/java.base/java/util/concurrent/ConcurrentHashMap.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="281">
+          <caret line="593" column="43" selection-start-line="593" selection-start-column="4" selection-end-line="593" selection-end-column="43" />
+          <folding>
+            <element signature="e#32768#32769#0" expanded="true" />
+            <element signature="e#32819#32820#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="561">
+          <caret line="33" column="44" selection-start-line="33" selection-start-column="44" selection-end-line="33" selection-end-column="44" />
+        </state>
+      </provider>
+      <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
+    </entry>
+    <entry file="jar://D:/respository_study/org/mybatis/mybatis/3.5.6/mybatis-3.5.6-sources.jar!/org/apache/ibatis/cache/Cache.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="41" column="17" selection-start-line="41" selection-start-column="17" selection-end-line="41" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/respository_study/org/mybatis/mybatis/3.5.6/mybatis-3.5.6-sources.jar!/org/apache/ibatis/cache/decorators/LruCache.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="32" lean-forward="true" selection-start-line="32" selection-end-line="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/respository_study/org/mybatis/mybatis/3.5.6/mybatis-3.5.6.jar!/org/apache/ibatis/cache/decorators/LruCache.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="12" column="13" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jrt://D:/devsoft/java/jdk/1.11!/jdk.internal.vm.compiler/org/graalvm/compiler/replacements/SnippetTemplate.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="459">
+          <caret line="1266" column="5" lean-forward="true" selection-start-line="1254" selection-start-column="4" selection-end-line="1266" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/algo/LRUCache3.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" selection-start-line="5" selection-end-line="18" selection-end-column="1" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#436#437#0" expanded="true" />
+            <element signature="e#497#498#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/algo/LruCache.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="792">
+          <caret line="83" column="1" lean-forward="true" selection-start-line="6" selection-end-line="83" selection-end-column="1" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#422#423#0" expanded="true" />
+            <element signature="e#457#458#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/algo/LRUCache2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="724">
+          <caret line="92" column="1" lean-forward="true" selection-start-line="5" selection-end-line="92" selection-end-column="1" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/algo/FiFoCache.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="809">
+          <caret line="70" lean-forward="true" selection-start-line="7" selection-end-line="70" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/algo/sort/quickSort.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <last-edited>study_demo:war</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.5" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>Web</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>11</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.46373627" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>study_demo</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.46373627" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>Maven: com.alibaba.csp:sentinel-core:1.6.3</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.46373627" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
