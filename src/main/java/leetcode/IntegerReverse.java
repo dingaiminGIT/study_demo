@@ -14,7 +14,7 @@ package leetcode;
 public class IntegerReverse {
 
     public static void main(String[] args) {
-        int x = 1463847412;
+        int x = -1463847412;
         System.out.println(reverse(x));
     }
 
@@ -39,10 +39,12 @@ public class IntegerReverse {
     public static int reverse2(int x) {
         int res = 0;
         while (x != 0) {
+            // x % 10 取末尾的数字
             res = res * 10 + x % 10;
-            // 去掉末尾的数字
+            // x = x / 10 去掉末尾的数字
             x = x / 10;
         }
+        // 判断是否逸出
         return (int) res == res ? (int)res : 0;
     }
 }

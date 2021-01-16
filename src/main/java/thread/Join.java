@@ -26,6 +26,9 @@ public class Join {
         @Override
         public void run() {
             try {
+                /**
+                 * join方法 条件不满足，继续等待，条件符合，方法返回
+                 */
                 thread.join();
             } catch (InterruptedException e) {
                 e.printStackTrace();

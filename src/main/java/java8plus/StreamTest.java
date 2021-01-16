@@ -1,3 +1,4 @@
+/*
 package java8plus;
 
 import org.junit.jupiter.api.Test;
@@ -46,11 +47,13 @@ public class StreamTest {
         threeHighCaloricDishNames.stream().forEach(System.out::println);
     }
 
-    /**
+    */
+/**
      * 从菜单中选出热量小于320卡的菜肴
      * 使用 filter 需要遍历整个流中的数据,对其中的每一个元素执行谓词判断
      *
-     */
+     *//*
+
     @Test
     public void sliceBeforeTest() {
         List<Dish> filterList =
@@ -61,10 +64,12 @@ public class StreamTest {
         filterList.stream().forEach(System.out::println);
     }
 
-    /**
+    */
+/**
      * 发现初始列表中的元素已经按照热量进行了排序操作，用 takeWhile 操作可以对流进行分片
      * 遇到第一个不符合要求的元素时就停止处理
-     */
+     *//*
+
     @Test
     public void sliceTest() {
         List<Dish> sliceList =
@@ -126,9 +131,11 @@ public class StreamTest {
         dishNameLengths.stream().forEach(System.out::println);
     }
 
-    /**
+    */
+/**
      * 把 ["Hello","World"] --> ["H","e","l","l","o","W","o","r","l","d"]
-     */
+     *//*
+
     @Test
     public void flatMapTest() {
         List<String> str = words.stream()
@@ -175,11 +182,14 @@ public class StreamTest {
         Optional<Integer> sum2 = numbers.stream().reduce(Integer::sum);
     }
 
-    /*@Test
+    */
+/*@Test
     public void IntStreamTest() {
         IntStream.rangeClosed(1, 100)
                     .filter(b -> Math.sqrt(a*a + b*b) % 1 == 0)
                     .boxed()
                     .mapToObj(b -> new int[]{a, b, (int) Math.sqrt(a*a + b*b)});
-    }*/
+    }*//*
+
 }
+*/

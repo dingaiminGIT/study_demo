@@ -1,5 +1,7 @@
 package io;
 
+import org.junit.jupiter.api.Test;
+
 import java.io.*;
 
 public class IOTest {
@@ -23,6 +25,12 @@ public class IOTest {
         }
 
 
+    }
 
+    @Test
+    public void test() {
+        Integer a = 1;
+        boolean f = 2 == a;
+        System.out.println(f);
     }
 }

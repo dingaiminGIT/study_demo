@@ -29,7 +29,7 @@ public class MoveZeros {
             if (nums[i] != 0) {
                 // 把非 0 元素放到 j 对应的下标上
                 nums[j] = nums[i];
-                // i 和 j 下标不相等就把下标 i 对应的元素置为 0，因为 J 表示非 0 下标
+                // i 和 j 下标不相等就把下标 i 对应的元素置为 0，因为 j 表示非 0 下标
                 if (i != j) {
                     nums[i] = 0;
                 }
@@ -50,15 +50,11 @@ public class MoveZeros {
         int j = 0;
         for (int i = 0; i < nums.length; i++) {
             if (nums[i] != 0) {
-                // 把非 0 元素放到 j 对应的下标上
-                nums[j] = nums[i];
-                // i 和 j 下标不相等就把下标 i 对应的元素置为 0，因为 J 表示非 0 下标
-                if (i != j) {
-                    nums[i] = 0;
-                }
-                // 非 0 下标+1
-                j++;
+                nums[j++] = nums[i];
             }
+        }
+        for (int i = j; i < nums.length; i++) {
+            nums[i] = 0;
         }
     }
 

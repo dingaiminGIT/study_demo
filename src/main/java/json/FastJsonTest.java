@@ -3,6 +3,7 @@ package json;
 import com.alibaba.fastjson.JSON;
 import com.alibaba.fastjson.JSONArray;
 import com.alibaba.fastjson.JSONObject;
+import com.google.common.collect.Maps;
 import org.junit.jupiter.api.Test;
 
 import java.io.ByteArrayOutputStream;
@@ -17,6 +18,15 @@ import static com.alibaba.fastjson.JSON.parseObject;
 import static com.alibaba.fastjson.JSON.toJSONString;
 
 public class FastJsonTest {
+
+    @Test
+    public void test333() {
+        Map<String, Object> promotionMap = Maps.newHashMap();
+        promotionMap.put("bg", 1);
+        promotionMap.put("cate", null);
+        String s = toJSONString(promotionMap);
+        System.out.println(s);
+    }
 
     @Test
     public void test77() {

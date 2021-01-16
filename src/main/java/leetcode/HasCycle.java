@@ -19,6 +19,23 @@ public class HasCycle {
 
     }
 
+    public static boolean hasCycleB(ListNode head) {
+        if (head == null || head.next == null) {
+            return false;
+        }
+        ListNode slow = head;
+        ListNode fast = head.next;
+
+        while (slow != fast) {
+            if (fast == null || fast.next == null) {
+                return false;
+            }
+            fast = fast.next;
+            slow = slow.next;
+        }
+        return true;
+    }
+
     /**
      * 快慢指针 ，不同速度的两个指针，肯定会相遇
      *

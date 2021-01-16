@@ -18,6 +18,8 @@ public class ThreadLocalTest {
             System.out.println(threadLocal.get());
             System.out.println(threadLocal1.get());
             System.out.println(threadLocal.get().equals(threadLocal1.get()));
+            threadLocal.remove();
+            threadLocal1.remove();
         }).start();
     }
 

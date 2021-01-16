@@ -1,12 +1,15 @@
+/*
 package java8plus;
 
 import java.lang.invoke.MethodHandles;
 import java.lang.invoke.VarHandle;
 import java.util.concurrent.CountDownLatch;
 
+*/
 /**
  * https://jekton.github.io/2018/07/22/java-translation-jep-193-Variable-Handles/
- */
+ *//*
+
 public class Counter {
 
     private static VarHandle COUNT;
@@ -49,3 +52,4 @@ public class Counter {
 
     }
 }
+*/
