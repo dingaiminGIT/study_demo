@@ -9,9 +9,9 @@ import java.util.Map;
 public class TwoSum {
 
     public static void main(String[] args) {
-        int[] nums = new int[]{2,7,11,15};
-        int target = 18;
-        int[] result = twoSum3(nums, target);
+        int[] nums = new int[]{3, 2, 4};
+        int target = 6;
+        int[] result = twoSum2(nums, target);
         for (int i = 0; i < result.length; i++) {
             System.out.println(result[i]);
         }
@@ -62,7 +62,7 @@ public class TwoSum {
             int num = target - nums[i];
             if (map.containsKey(num) && map.get(num) != i) {
                 result[0] = map.get(num);
-                result[1] = map.get(i);
+                result[1] = i;
                 return result;
             }
         }
