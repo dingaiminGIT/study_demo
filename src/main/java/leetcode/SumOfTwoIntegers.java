@@ -11,6 +11,8 @@ public class SumOfTwoIntegers {
     }
 
     /**
+     * 优秀解法 https://leetcode-cn.com/problems/sum-of-two-integers/solution/li-yong-wei-cao-zuo-shi-xian-liang-shu-qiu-he-by-p/
+     *
      * 因为不能用 + 主要考察位运算
      * a + b 的问题拆分为 (a +b 的无进位结果) + (a + b 的进位结果)
      * 异或 ^ 无进位加法
