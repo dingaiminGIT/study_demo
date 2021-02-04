@@ -5,6 +5,8 @@ import java.util.LinkedHashMap;
 import java.util.Map;
 
 /**
+ * https://leetcode-cn.com/problems/lru-cache/
+ *
  * LRU-Cache
  * 用 LinkedHashMap 实现
  * 通过一个 HashMap 用了存放 key-value

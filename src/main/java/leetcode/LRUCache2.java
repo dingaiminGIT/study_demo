@@ -3,6 +3,10 @@ package leetcode;
 import java.util.HashMap;
 import java.util.Map;
 
+
+/**
+ * https://leetcode-cn.com/problems/lru-cache/
+ */
 public class LRUCache2 {
     /**
      * 双向链表
