@@ -11,6 +11,12 @@ import java.util.Stack;
  */
 public class PrintReverseListNode {
 
+    /**
+     * 利用栈
+     *
+     * @param head
+     * @return
+     */
     public int[] reversePrint(ListNode head) {
         Stack<ListNode> stack = new Stack<>();
         ListNode cur = head;

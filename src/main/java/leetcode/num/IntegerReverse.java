@@ -14,7 +14,7 @@ package leetcode.num;
 public class IntegerReverse {
 
     public static void main(String[] args) {
-        int x = -1463847412;
+        int x = -146;
         System.out.println(reverse(x));
     }
 

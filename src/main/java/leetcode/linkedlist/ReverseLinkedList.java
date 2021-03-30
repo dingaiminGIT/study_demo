@@ -1,5 +1,9 @@
 package leetcode.linkedlist;
 
+import java.util.HashMap;
+import java.util.Map;
+import java.util.Set;
+
 /**
  * 反转链表
  * https://leetcode-cn.com/problems/reverse-linked-list/
@@ -8,6 +12,15 @@ package leetcode.linkedlist;
 public class ReverseLinkedList {
 
     public static void main(String[] args) {
+    String str = "";
+        String[] s = str.split(" ");
+        StringBuffer st2r = new StringBuffer();
+        StringBuffer strBuffer = new StringBuffer();
+
+        Map<String, Integer> map = new HashMap<>();
+
+        Set<String> strings = map.keySet();
+
 
     }
 

@@ -12,9 +12,9 @@ public class ReorderList {
     /**
      * 找链表中点 + 链表逆序 + 合并链表
      * 目标链表是将原链表的左半端和反转后的右半端合并后的结果
-     * 1.找到原链表的重点（可以使用快慢指针 https://leetcode-cn.com/problems/middle-of-the-linked-list/）
+     * 1.找到原链表的中点（可以使用快慢指针 https://leetcode-cn.com/problems/middle-of-the-linked-list/）
      * 2.将原链表的右半部分反转（https://leetcode-cn.com/problems/reverse-linked-list/）
-     * 3.将原链表的两端合并
+     * 3.合并两个链表
      * @param head
      */
     public void reorderList(ListNode head) {

@@ -13,6 +13,14 @@ package leetcode.linkedlist;
  */
 public class DetectCircle {
 
+    /**
+     * 首先用快慢指针验证是否有环
+     * 然后用一个新的指针从头开始走，之前的slow指针从 fast 与 slow 相遇的地方开始走
+     * 最后 slow 与 slow2 相遇的地方即为环的入口
+     *
+     * @param head
+     * @return
+     */
     public ListNode detectCycle(ListNode head) {
         if(head == null || head.next == null) {
             return null;

@@ -23,11 +23,8 @@ public class PathSum {
 
     /**
      * 先序遍历 + 递归 + 回溯
-     *
      *     递归参数：当前节点root和当前的目标值tar
-     *
      *     递归终止条件：节点root为空，直接返回
-     *
      *     递归的内容
      *     路径更新：将当前节点root.val的值加入到路径path中
      *     更新目标值tar：tar = tar - root.val

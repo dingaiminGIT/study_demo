@@ -1,8 +1,39 @@
 package num;
 
+import com.alibaba.fastjson.JSONObject;
 import org.junit.jupiter.api.Test;
 
 public class NumberTest {
+
+    @Test
+    public void test2() {
+        // sucess
+        Long l = 1L;
+        double d = (double) l;
+
+        Object o = l;
+        // sucess
+        long l2 = (long) o;
+
+        // fail
+        d = (double) o;
+    }
+
+    @Test
+    public void test3() {
+        JSONObject obj = new JSONObject();
+        obj.put("a", 1L);
+        Object a = obj.get("a");
+        double v = (double) a;
+        /*if (a instanceof Long) {
+            System.out.println(Double.parseDouble(a+""));
+        }*/
+        /*long b = 1L;
+        double v = (double) b;
+        System.out.println(v);*/
+    }
+
+
 
     @Test
     public void test() {

@@ -30,16 +30,16 @@ public class NthFromEnd {
      * @return
      */
     public ListNode getKthFromEnd(ListNode head, int k) {
-        ListNode pre = head;
-        ListNode post = head;
+        ListNode fast = head;
+        ListNode slow = head;
         for (int i = 0; i < k; i++) {
-            pre = pre.next;
+            fast = fast.next;
         }
-        while (pre != null) {
-            pre = pre.next;
-            post = post.next;
+        while (fast != null) {
+            fast = fast.next;
+            slow = slow.next;
         }
-        return post;
+        return slow;
 
     }
 }

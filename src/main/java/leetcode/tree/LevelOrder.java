@@ -20,6 +20,7 @@ import java.util.Queue;
 public class LevelOrder {
 
     /**
+     *  BFS
      * 广度优先遍历（根->左->右） + 队列保存每层的元素（FIFO）
      *
      * 时间复杂度：每个点进队出队各一次，故渐进时间复杂度为 O(n)。

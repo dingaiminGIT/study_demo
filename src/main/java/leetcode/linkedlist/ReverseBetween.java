@@ -48,9 +48,6 @@ public class ReverseBetween {
         ListNode pre = dummy;
         pre.next = head;
 
-        // 记录待翻转部分的后继节点
-        ListNode next = null;
-
         ListNode cur = head;
         int count = 1;
         while(count < m) {
@@ -69,7 +66,8 @@ public class ReverseBetween {
         }
         // 找到了第n个节点
         // 找到第n个节点的后继节点
-        next = cur.next;
+        // 记录待翻转部分的后继节点
+        ListNode next = cur.next;
         // 将待翻转链表与后继节点断开链接
         cur.next = null;
 

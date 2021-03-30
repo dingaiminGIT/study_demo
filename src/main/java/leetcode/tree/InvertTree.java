@@ -11,6 +11,12 @@ package leetcode.tree;
  */
 public class InvertTree {
 
+    /**
+     * 递归
+     *
+     * @param root
+     * @return
+     */
     public TreeNode invertTree(TreeNode root) {
         if(root == null) {
             return null;

@@ -6,47 +6,38 @@
   <component name="ChangeListManager">
     <list default="true" id="7c4757a9-3332-4108-baf4-fc7fc86c4e74" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/leetcode/ArrayBigTopK.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/leetcode/array/ArrayBigTopK.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/leetcode/BestTimeToBuyAndSellStock.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/leetcode/dp/BestTimeToBuyAndSellStock.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/leetcode/BestTimeToBuyAndSellStock2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/leetcode/dp/BestTimeToBuyAndSellStock2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/leetcode/BigNumAdd.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/leetcode/BinaryTreeLevelOrderTraversal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/leetcode/tree/LevelOrder.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/leetcode/BinaryTreeOrderTraversal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/leetcode/tree/BinaryTreeOrderTraversal.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/leetcode/ClimbingStairs.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/leetcode/dp/ClimbingStairs.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/leetcode/CoinChange.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/leetcode/dp/CoinChange.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/leetcode/DeleteListNode.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/leetcode/linkedlist/DeleteListNode.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/leetcode/DetectCircle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/leetcode/linkedlist/DetectCircle.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/leetcode/FindUniqChar.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/leetcode/string/FindUniqChar.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/leetcode/FirstCommonListNode.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/leetcode/linkedlist/FirstCommonListNode.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/leetcode/HasCycle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/leetcode/linkedlist/HasCycle.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/leetcode/IntegerReverse.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/leetcode/num/IntegerReverse.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/leetcode/InvertTree.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/leetcode/tree/InvertTree.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/leetcode/ListNode.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/leetcode/LongestCommonSubsequence.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/leetcode/dp/LongestCommonSubsequence.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/leetcode/MaxSubArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/leetcode/dp/MaxSubArray.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/leetcode/MergeTwoSortedList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/leetcode/linkedlist/MergeTwoSortedList.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/leetcode/NthFromEnd.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/leetcode/linkedlist/NthFromEnd.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/leetcode/Num2Chinese.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/leetcode/num/Num2Chinese.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/leetcode/PalindromeLinkedList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/leetcode/linkedlist/PalindromeLinkedList.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/leetcode/PartitionList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/leetcode/linkedlist/PartitionList.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/leetcode/PathSum.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/leetcode/tree/PathSum.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/leetcode/PrintReverseListNode.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/leetcode/linkedlist/PrintReverseListNode.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/leetcode/QuickSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/leetcode/sort/QuickSort.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/leetcode/RemoveNthFromEnd.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/leetcode/linkedlist/RemoveNthFromEnd.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/leetcode/ReverseBetween.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/leetcode/linkedlist/ReverseBetween.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/leetcode/ReverseKGroup.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/leetcode/linkedlist/ReverseKGroup.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/leetcode/ReverseLinkedList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/leetcode/linkedlist/ReverseLinkedList.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/leetcode/StringCharTotal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/leetcode/string/StringCharTotal.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/leetcode/StringToInt.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/leetcode/string/StringToInt.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/leetcode/SumOfTwoIntegers.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/leetcode/num/SumOfTwoIntegers.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/leetcode/ThreeSum.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/leetcode/num/ThreeSum.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/leetcode/TreeNode.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/leetcode/TwoSum.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/leetcode/num/TwoSum.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/leetcode/TwoSum2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/leetcode/num/TwoSum2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/leetcode/TwoSum3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/leetcode/num/TwoSum3.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/leetcode/HasCycle$ListNode.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/leetcode/HasCycle.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/leetcode/ReverseLinkedList.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/leetcode/CombinationSum.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/leetcode/CombinationSum.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/leetcode/SmallTopK.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/leetcode/heap/SmallTopK.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/leetcode/array/SingleNumber.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/leetcode/array/SingleNumber.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/leetcode/dp/BestTimeToBuyAndSellStock.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/leetcode/dp/BestTimeToBuyAndSellStock.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/leetcode/dp/ClimbingStairs.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/leetcode/dp/ClimbingStairs.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/leetcode/dp/CoinChange.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/leetcode/dp/CoinChange.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/leetcode/dp/CountSubstrings.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/leetcode/dp/CountSubstrings.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/leetcode/dp/FindLengthOfLCIS.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/leetcode/dp/FindLengthOfLCIS.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/leetcode/dp/LongestPalindromeSubseq.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/leetcode/dp/LongestPalindromeSubseq.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/leetcode/linkedlist/AddTwoNumbers.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/leetcode/linkedlist/AddTwoNumbers.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/leetcode/linkedlist/DeleteListNode.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/leetcode/linkedlist/DeleteListNode.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/leetcode/linkedlist/DetectCircle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/leetcode/linkedlist/DetectCircle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/leetcode/linkedlist/HasCycle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/leetcode/linkedlist/HasCycle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/leetcode/linkedlist/MergeTwoSortedList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/leetcode/linkedlist/MergeTwoSortedList.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/leetcode/linkedlist/NthFromEnd.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/leetcode/linkedlist/NthFromEnd.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/leetcode/linkedlist/PalindromeLinkedList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/leetcode/linkedlist/PalindromeLinkedList.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/leetcode/linkedlist/PrintReverseListNode.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/leetcode/linkedlist/PrintReverseListNode.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/leetcode/linkedlist/ReorderList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/leetcode/linkedlist/ReorderList.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/leetcode/linkedlist/ReverseBetween.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/leetcode/linkedlist/ReverseBetween.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/leetcode/linkedlist/ReverseLinkedList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/leetcode/linkedlist/ReverseLinkedList.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/leetcode/num/IntegerReverse.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/leetcode/num/IntegerReverse.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/leetcode/num/SumOfTwoIntegers.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/leetcode/num/SumOfTwoIntegers.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/leetcode/str/FirstUniqChar.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/leetcode/tree/InvertTree.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/leetcode/tree/InvertTree.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/leetcode/tree/LevelOrder.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/leetcode/tree/LevelOrder.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/leetcode/tree/PathSum.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/leetcode/tree/PathSum.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/num/NumberTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/num/NumberTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/leetcode/IntegerReverse.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/leetcode/SumOfTwoIntegers.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/leetcode/ThreeSum.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/leetcode/TwoSum.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/num/NumberTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/num/NumberTest.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -171,9 +162,9 @@
       <select />
     </treeState>
   </component>
-  <component name="RunManager" selected="Application.BigNumAdd">
-    <configuration name="BigNumAdd" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="leetcode.BigNumAdd" />
+  <component name="RunManager" selected="JUnit.NumberTest.test2">
+    <configuration name="IntegerReverse" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="leetcode.num.IntegerReverse" />
       <module name="study_demo" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
@@ -186,55 +177,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="LengthOfLIS" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="leetcode.dp.LengthOfLIS" />
+    <configuration name="TwoSum3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="leetcode.num.TwoSum3" />
       <module name="study_demo" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="leetcode.dp.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="SortListNode" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="leetcode.linkedlist.SortListNode" />
-      <module name="study_demo" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="leetcode.linkedlist.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Subsets" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="leetcode.Subsets" />
-      <module name="study_demo" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="leetcode.dp.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="UniquePathsWithObstacles" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="leetcode.dp.UniquePathsWithObstacles" />
-      <module name="study_demo" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="leetcode.dp.*" />
+          <option name="PATTERN" value="leetcode.num.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -244,6 +193,54 @@
     </configuration>
     <configuration default="true" type="Application" factoryName="Application">
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="volatileTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="javabase.volatileTest" />
+      <module name="study_demo" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="javabase.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="NumberTest.test2" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="study_demo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="num.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="num" />
+      <option name="MAIN_CLASS_NAME" value="num.NumberTest" />
+      <option name="METHOD_NAME" value="test2" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="NumberTest.test3" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="study_demo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="num.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="num" />
+      <option name="MAIN_CLASS_NAME" value="num.NumberTest" />
+      <option name="METHOD_NAME" value="test3" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -265,19 +262,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.Subsets" />
-      <item itemvalue="Application.SortListNode" />
-      <item itemvalue="Application.UniquePathsWithObstacles" />
-      <item itemvalue="Application.LengthOfLIS" />
-      <item itemvalue="Application.BigNumAdd" />
+      <item itemvalue="Application.TwoSum3" />
+      <item itemvalue="Application.IntegerReverse" />
+      <item itemvalue="Application.volatileTest" />
+      <item itemvalue="JUnit.NumberTest.test3" />
+      <item itemvalue="JUnit.NumberTest.test2" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.BigNumAdd" />
-        <item itemvalue="Application.LengthOfLIS" />
-        <item itemvalue="Application.UniquePathsWithObstacles" />
-        <item itemvalue="Application.SortListNode" />
-        <item itemvalue="Application.Subsets" />
+        <item itemvalue="JUnit.NumberTest.test2" />
+        <item itemvalue="JUnit.NumberTest.test3" />
+        <item itemvalue="Application.volatileTest" />
+        <item itemvalue="Application.IntegerReverse" />
+        <item itemvalue="Application.TwoSum3" />
       </list>
     </recent_temporary>
   </component>
@@ -543,12 +540,12 @@
     </option>
   </component>
   <component name="WindowStateProjectService">
-    <state x="544" y="159" key="#com.intellij.ide.util.MemberChooser" timestamp="1613388729674">
-      <screen x="0" y="0" width="1366" height="728" />
+    <state x="445" y="-845" key="#com.intellij.ide.util.MemberChooser" timestamp="1613978192990">
+      <screen x="-320" y="-1080" width="1920" height="1040" />
     </state>
     <state x="478" y="-845" key="#com.intellij.ide.util.MemberChooser/0.0.1366.728/-287.-1080.1920.1040@-287.-1080.1920.1040" timestamp="1611484625677" />
     <state x="544" y="159" key="#com.intellij.ide.util.MemberChooser/0.0.1366.728/-287.-1080.1920.1040@0.0.1366.728" timestamp="1613388729674" />
-    <state x="445" y="-845" key="#com.intellij.ide.util.MemberChooser/0.0.1366.728/-320.-1080.1920.1040@-320.-1080.1920.1040" timestamp="1610084980485" />
+    <state x="445" y="-845" key="#com.intellij.ide.util.MemberChooser/0.0.1366.728/-320.-1080.1920.1040@-320.-1080.1920.1040" timestamp="1613978192990" />
     <state x="452" y="-702" width="441" height="293" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1612749122377">
       <screen x="-287" y="-1080" width="1920" height="1040" />
     </state>
@@ -557,10 +554,10 @@
       <screen x="-287" y="-1080" width="1920" height="1040" />
     </state>
     <state x="403" y="-814" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1366.728/-287.-1080.1920.1040@-287.-1080.1920.1040" timestamp="1613464131401" />
-    <state x="470" y="-638" key="#xdebugger.evaluate" timestamp="1611497086674">
+    <state x="414" y="-637" key="#xdebugger.evaluate" timestamp="1613743203217">
       <screen x="-287" y="-1080" width="1920" height="1040" />
     </state>
-    <state x="470" y="-638" key="#xdebugger.evaluate/0.0.1366.728/-287.-1080.1920.1040@-287.-1080.1920.1040" timestamp="1611497086674" />
+    <state x="414" y="-637" key="#xdebugger.evaluate/0.0.1366.728/-287.-1080.1920.1040@-287.-1080.1920.1040" timestamp="1613743203217" />
     <state width="473" height="466" key="DebuggerActiveHint" timestamp="1611484849191">
       <screen x="-287" y="-1080" width="1920" height="1040" />
     </state>
@@ -570,59 +567,63 @@
     </state>
     <state x="452" y="-806" key="FileChooserDialogImpl/0.0.1366.728/-287.-1080.1920.1040@-287.-1080.1920.1040" timestamp="1611020043305" />
     <state x="419" y="-806" key="FileChooserDialogImpl/0.0.1366.728/-320.-1080.1920.1040@-320.-1080.1920.1040" timestamp="1610428992392" />
-    <state width="1323" height="78" key="GridCell.Tab.0.bottom" timestamp="1613714928620">
+    <state width="1323" height="120" key="GridCell.Tab.0.bottom" timestamp="1615428120709">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="173" key="GridCell.Tab.0.bottom/0.0.1366.728/-287.-1080.1920.1040@-287.-1080.1920.1040" timestamp="1613561577442" />
+    <state width="1877" height="198" key="GridCell.Tab.0.bottom/0.0.1366.728/-287.-1080.1920.1040@-287.-1080.1920.1040" timestamp="1613743767022" />
     <state width="1323" height="308" key="GridCell.Tab.0.bottom/0.0.1366.728/-287.-1080.1920.1040@0.0.1366.728" timestamp="1613206224120" />
-    <state width="1877" height="144" key="GridCell.Tab.0.bottom/0.0.1366.728/-320.-1080.1920.1040@-320.-1080.1920.1040" timestamp="1612236400166" />
-    <state width="1323" height="78" key="GridCell.Tab.0.bottom/0.0.1366.728/-320.-1080.1920.1040@0.0.1366.728" timestamp="1613714928620" />
-    <state width="1323" height="78" key="GridCell.Tab.0.center" timestamp="1613714928619">
+    <state width="1877" height="183" key="GridCell.Tab.0.bottom/0.0.1366.728/-320.-1080.1920.1040@-320.-1080.1920.1040" timestamp="1613978296572" />
+    <state width="1323" height="120" key="GridCell.Tab.0.bottom/0.0.1366.728/-320.-1080.1920.1040@0.0.1366.728" timestamp="1615428120709" />
+    <state width="1323" height="233" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1615369992205" />
+    <state width="1323" height="120" key="GridCell.Tab.0.center" timestamp="1615428120709">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="173" key="GridCell.Tab.0.center/0.0.1366.728/-287.-1080.1920.1040@-287.-1080.1920.1040" timestamp="1613561577442" />
+    <state width="1877" height="198" key="GridCell.Tab.0.center/0.0.1366.728/-287.-1080.1920.1040@-287.-1080.1920.1040" timestamp="1613743767021" />
     <state width="1323" height="308" key="GridCell.Tab.0.center/0.0.1366.728/-287.-1080.1920.1040@0.0.1366.728" timestamp="1613206224119" />
-    <state width="1877" height="144" key="GridCell.Tab.0.center/0.0.1366.728/-320.-1080.1920.1040@-320.-1080.1920.1040" timestamp="1612236400165" />
-    <state width="1323" height="78" key="GridCell.Tab.0.center/0.0.1366.728/-320.-1080.1920.1040@0.0.1366.728" timestamp="1613714928619" />
-    <state width="1323" height="78" key="GridCell.Tab.0.left" timestamp="1613714928619">
+    <state width="1877" height="183" key="GridCell.Tab.0.center/0.0.1366.728/-320.-1080.1920.1040@-320.-1080.1920.1040" timestamp="1613978296571" />
+    <state width="1323" height="120" key="GridCell.Tab.0.center/0.0.1366.728/-320.-1080.1920.1040@0.0.1366.728" timestamp="1615428120709" />
+    <state width="1323" height="233" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1615369992204" />
+    <state width="1323" height="120" key="GridCell.Tab.0.left" timestamp="1615428120709">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="173" key="GridCell.Tab.0.left/0.0.1366.728/-287.-1080.1920.1040@-287.-1080.1920.1040" timestamp="1613561577442" />
+    <state width="1877" height="198" key="GridCell.Tab.0.left/0.0.1366.728/-287.-1080.1920.1040@-287.-1080.1920.1040" timestamp="1613743767021" />
     <state width="1323" height="308" key="GridCell.Tab.0.left/0.0.1366.728/-287.-1080.1920.1040@0.0.1366.728" timestamp="1613206224119" />
-    <state width="1877" height="144" key="GridCell.Tab.0.left/0.0.1366.728/-320.-1080.1920.1040@-320.-1080.1920.1040" timestamp="1612236400165" />
-    <state width="1323" height="78" key="GridCell.Tab.0.left/0.0.1366.728/-320.-1080.1920.1040@0.0.1366.728" timestamp="1613714928619" />
-    <state width="1323" height="78" key="GridCell.Tab.0.right" timestamp="1613714928620">
+    <state width="1877" height="183" key="GridCell.Tab.0.left/0.0.1366.728/-320.-1080.1920.1040@-320.-1080.1920.1040" timestamp="1613978296570" />
+    <state width="1323" height="120" key="GridCell.Tab.0.left/0.0.1366.728/-320.-1080.1920.1040@0.0.1366.728" timestamp="1615428120709" />
+    <state width="1323" height="233" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1615369992204" />
+    <state width="1323" height="120" key="GridCell.Tab.0.right" timestamp="1615428120709">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="173" key="GridCell.Tab.0.right/0.0.1366.728/-287.-1080.1920.1040@-287.-1080.1920.1040" timestamp="1613561577442" />
+    <state width="1877" height="198" key="GridCell.Tab.0.right/0.0.1366.728/-287.-1080.1920.1040@-287.-1080.1920.1040" timestamp="1613743767022" />
     <state width="1323" height="308" key="GridCell.Tab.0.right/0.0.1366.728/-287.-1080.1920.1040@0.0.1366.728" timestamp="1613206224120" />
-    <state width="1877" height="144" key="GridCell.Tab.0.right/0.0.1366.728/-320.-1080.1920.1040@-320.-1080.1920.1040" timestamp="1612236400166" />
-    <state width="1323" height="78" key="GridCell.Tab.0.right/0.0.1366.728/-320.-1080.1920.1040@0.0.1366.728" timestamp="1613714928620" />
-    <state width="1877" height="61" key="GridCell.Tab.1.bottom" timestamp="1613464131471">
+    <state width="1877" height="183" key="GridCell.Tab.0.right/0.0.1366.728/-320.-1080.1920.1040@-320.-1080.1920.1040" timestamp="1613978296571" />
+    <state width="1323" height="120" key="GridCell.Tab.0.right/0.0.1366.728/-320.-1080.1920.1040@0.0.1366.728" timestamp="1615428120709" />
+    <state width="1323" height="233" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1615369992204" />
+    <state width="1877" height="251" key="GridCell.Tab.1.bottom" timestamp="1613743411355">
       <screen x="-287" y="-1080" width="1920" height="1040" />
     </state>
-    <state width="1877" height="61" key="GridCell.Tab.1.bottom/0.0.1366.728/-287.-1080.1920.1040@-287.-1080.1920.1040" timestamp="1613464131471" />
+    <state width="1877" height="251" key="GridCell.Tab.1.bottom/0.0.1366.728/-287.-1080.1920.1040@-287.-1080.1920.1040" timestamp="1613743411355" />
     <state width="1323" height="308" key="GridCell.Tab.1.bottom/0.0.1366.728/-287.-1080.1920.1040@0.0.1366.728" timestamp="1613206224879" />
     <state width="1877" height="234" key="GridCell.Tab.1.bottom/0.0.1366.728/-320.-1080.1920.1040@-320.-1080.1920.1040" timestamp="1612232161691" />
     <state width="1877" height="155" key="GridCell.Tab.1.bottom/0.0.1366.728/-320.-1080.1920.1040@0.0.1366.728" timestamp="1611283678153" />
-    <state width="1877" height="61" key="GridCell.Tab.1.center" timestamp="1613464131471">
+    <state width="1877" height="251" key="GridCell.Tab.1.center" timestamp="1613743411355">
       <screen x="-287" y="-1080" width="1920" height="1040" />
     </state>
-    <state width="1877" height="61" key="GridCell.Tab.1.center/0.0.1366.728/-287.-1080.1920.1040@-287.-1080.1920.1040" timestamp="1613464131471" />
+    <state width="1877" height="251" key="GridCell.Tab.1.center/0.0.1366.728/-287.-1080.1920.1040@-287.-1080.1920.1040" timestamp="1613743411355" />
     <state width="1323" height="308" key="GridCell.Tab.1.center/0.0.1366.728/-287.-1080.1920.1040@0.0.1366.728" timestamp="1613206224879" />
     <state width="1877" height="234" key="GridCell.Tab.1.center/0.0.1366.728/-320.-1080.1920.1040@-320.-1080.1920.1040" timestamp="1612232161691" />
     <state width="1877" height="155" key="GridCell.Tab.1.center/0.0.1366.728/-320.-1080.1920.1040@0.0.1366.728" timestamp="1611283678152" />
-    <state width="1877" height="61" key="GridCell.Tab.1.left" timestamp="1613464131471">
+    <state width="1877" height="251" key="GridCell.Tab.1.left" timestamp="1613743411354">
       <screen x="-287" y="-1080" width="1920" height="1040" />
     </state>
-    <state width="1877" height="61" key="GridCell.Tab.1.left/0.0.1366.728/-287.-1080.1920.1040@-287.-1080.1920.1040" timestamp="1613464131471" />
+    <state width="1877" height="251" key="GridCell.Tab.1.left/0.0.1366.728/-287.-1080.1920.1040@-287.-1080.1920.1040" timestamp="1613743411354" />
     <state width="1323" height="308" key="GridCell.Tab.1.left/0.0.1366.728/-287.-1080.1920.1040@0.0.1366.728" timestamp="1613206224879" />
     <state width="1877" height="234" key="GridCell.Tab.1.left/0.0.1366.728/-320.-1080.1920.1040@-320.-1080.1920.1040" timestamp="1612232161691" />
     <state width="1877" height="155" key="GridCell.Tab.1.left/0.0.1366.728/-320.-1080.1920.1040@0.0.1366.728" timestamp="1611283678152" />
-    <state width="1877" height="61" key="GridCell.Tab.1.right" timestamp="1613464131471">
+    <state width="1877" height="251" key="GridCell.Tab.1.right" timestamp="1613743411355">
       <screen x="-287" y="-1080" width="1920" height="1040" />
     </state>
-    <state width="1877" height="61" key="GridCell.Tab.1.right/0.0.1366.728/-287.-1080.1920.1040@-287.-1080.1920.1040" timestamp="1613464131471" />
+    <state width="1877" height="251" key="GridCell.Tab.1.right/0.0.1366.728/-287.-1080.1920.1040@-287.-1080.1920.1040" timestamp="1613743411355" />
     <state width="1323" height="308" key="GridCell.Tab.1.right/0.0.1366.728/-287.-1080.1920.1040@0.0.1366.728" timestamp="1613206224879" />
     <state width="1877" height="234" key="GridCell.Tab.1.right/0.0.1366.728/-320.-1080.1920.1040@-320.-1080.1920.1040" timestamp="1612232161691" />
     <state width="1877" height="155" key="GridCell.Tab.1.right/0.0.1366.728/-320.-1080.1920.1040@0.0.1366.728" timestamp="1611283678152" />
@@ -630,11 +631,12 @@
       <screen x="-287" y="-1080" width="1920" height="1040" />
     </state>
     <state x="153" y="-986" key="SettingsEditor/0.0.1366.728/-287.-1080.1920.1040@-287.-1080.1920.1040" timestamp="1610771993756" />
-    <state x="394" y="-819" width="582" height="524" key="StructurePopup" timestamp="1611500730755">
-      <screen x="-287" y="-1080" width="1920" height="1040" />
+    <state x="485" y="183" width="582" height="367" key="StructurePopup" timestamp="1615362279885">
+      <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="394" y="-819" width="582" height="524" key="StructurePopup/0.0.1366.728/-287.-1080.1920.1040@-287.-1080.1920.1040" timestamp="1611500730755" />
-    <state x="361" y="-819" width="582" height="524" key="StructurePopup/0.0.1366.728/-320.-1080.1920.1040@-320.-1080.1920.1040" timestamp="1611044618769" />
+    <state x="361" y="-819" width="582" height="524" key="StructurePopup/0.0.1366.728/-320.-1080.1920.1040@-320.-1080.1920.1040" timestamp="1614150266681" />
+    <state x="485" y="183" width="582" height="367" key="StructurePopup/0.0.1366.728/-320.-1080.1920.1040@0.0.1366.728" timestamp="1615362279885" />
     <state x="345" y="-984" width="997" height="688" maximized="true" key="dock-window-1" timestamp="1613137272478">
       <screen x="-287" y="-1080" width="1920" height="1040" />
     </state>
@@ -658,13 +660,14 @@
       <screen x="-287" y="-1080" width="1920" height="1040" />
     </state>
     <state x="329" y="-299" key="run.anything.popup/0.0.1366.728/-287.-1080.1920.1040@-287.-1080.1920.1040" timestamp="1611472103613" />
-    <state x="438" y="121" width="672" height="474" key="search.everywhere.popup" timestamp="1613617896252">
+    <state x="438" y="121" width="672" height="474" key="search.everywhere.popup" timestamp="1615367562919">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="329" y="-907" width="672" height="676" key="search.everywhere.popup/0.0.1366.728/-287.-1080.1920.1040@-287.-1080.1920.1040" timestamp="1612096866533" />
     <state x="438" y="121" width="672" height="474" key="search.everywhere.popup/0.0.1366.728/-287.-1080.1920.1040@0.0.1366.728" timestamp="1613143499753" />
-    <state x="296" y="-907" width="672" height="676" key="search.everywhere.popup/0.0.1366.728/-320.-1080.1920.1040@-320.-1080.1920.1040" timestamp="1611905264959" />
-    <state x="438" y="121" width="672" height="474" key="search.everywhere.popup/0.0.1366.728/-320.-1080.1920.1040@0.0.1366.728" timestamp="1613617896252" />
+    <state x="296" y="-907" width="672" height="676" key="search.everywhere.popup/0.0.1366.728/-320.-1080.1920.1040@-320.-1080.1920.1040" timestamp="1614148990717" />
+    <state x="438" y="121" width="672" height="474" key="search.everywhere.popup/0.0.1366.728/-320.-1080.1920.1040@0.0.1366.728" timestamp="1615362164818" />
+    <state x="438" y="121" width="672" height="474" key="search.everywhere.popup/0.0.1366.728@0.0.1366.728" timestamp="1615367562919" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
