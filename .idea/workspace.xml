@@ -3,40 +3,17 @@
   <component name="AnalysisUIOptions">
     <option name="GROUP_BY_SEVERITY" value="true" />
   </component>
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="ALL" />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="7c4757a9-3332-4108-baf4-fc7fc86c4e74" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/leetcode/CombinationSum.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/leetcode/CombinationSum.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/leetcode/SmallTopK.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/leetcode/heap/SmallTopK.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/leetcode/array/SingleNumber.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/leetcode/array/SingleNumber.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/leetcode/dp/BestTimeToBuyAndSellStock.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/leetcode/dp/BestTimeToBuyAndSellStock.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/leetcode/dp/ClimbingStairs.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/leetcode/dp/ClimbingStairs.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/leetcode/dp/CoinChange.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/leetcode/dp/CoinChange.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/leetcode/dp/CountSubstrings.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/leetcode/dp/CountSubstrings.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/leetcode/dp/FindLengthOfLCIS.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/leetcode/dp/FindLengthOfLCIS.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/leetcode/dp/LongestPalindromeSubseq.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/leetcode/dp/LongestPalindromeSubseq.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/leetcode/linkedlist/AddTwoNumbers.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/leetcode/linkedlist/AddTwoNumbers.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/leetcode/linkedlist/DeleteListNode.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/leetcode/linkedlist/DeleteListNode.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/leetcode/linkedlist/DetectCircle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/leetcode/linkedlist/DetectCircle.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/leetcode/linkedlist/HasCycle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/leetcode/linkedlist/HasCycle.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/leetcode/linkedlist/MergeTwoSortedList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/leetcode/linkedlist/MergeTwoSortedList.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/leetcode/linkedlist/NthFromEnd.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/leetcode/linkedlist/NthFromEnd.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/leetcode/linkedlist/PalindromeLinkedList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/leetcode/linkedlist/PalindromeLinkedList.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/leetcode/linkedlist/PrintReverseListNode.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/leetcode/linkedlist/PrintReverseListNode.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/leetcode/linkedlist/ReorderList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/leetcode/linkedlist/ReorderList.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/leetcode/linkedlist/ReverseBetween.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/leetcode/linkedlist/ReverseBetween.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/leetcode/linkedlist/ReverseLinkedList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/leetcode/linkedlist/ReverseLinkedList.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/leetcode/num/IntegerReverse.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/leetcode/num/IntegerReverse.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/leetcode/num/SumOfTwoIntegers.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/leetcode/num/SumOfTwoIntegers.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/leetcode/str/FirstUniqChar.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/leetcode/tree/InvertTree.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/leetcode/tree/InvertTree.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/leetcode/tree/LevelOrder.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/leetcode/tree/LevelOrder.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/leetcode/tree/PathSum.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/leetcode/tree/PathSum.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/num/NumberTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/num/NumberTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/leetcode/IntegerReverse.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/leetcode/SumOfTwoIntegers.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/leetcode/ThreeSum.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/leetcode/TwoSum.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/job/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/job/Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/leetcode/string/NetNum.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/leetcode/string/NetNum.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/mi/Test.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/tencent/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/leetcode/array/IsContainsKey.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/classes/num/NumberTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/num/NumberTest.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -61,9 +38,6 @@
     <expand />
     <select />
   </component>
-  <component name="FavoritesManager">
-    <favorites_list name="study_demo" />
-  </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
@@ -86,24 +60,14 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="MavenImportPreferences">
-    <option name="generalSettings">
-      <MavenGeneralSettings>
-        <option name="localRepository" value="D:\respository_study" />
-        <option name="userSettingsFile" value="D:\devsoft\maven\apache-maven-3.5.3\conf\settings_study.xml" />
-      </MavenGeneralSettings>
-    </option>
-    <option name="importingSettings">
-      <MavenImportingSettings>
-        <option name="importAutomatically" value="true" />
-      </MavenImportingSettings>
-    </option>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
   </component>
   <component name="NodePackageJsonFileManager">
     <packageJsonPaths />
   </component>
   <component name="ProjectCodeStyleSettingsMigration">
-    <option name="version" value="1" />
+    <option name="version" value="2" />
   </component>
   <component name="ProjectId" id="1mj16caO5ZkbB4q5Jd5AIJYOFkI" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
@@ -111,32 +75,37 @@
   </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
-    <option name="showExcludedFiles" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">
-    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="SearchEverywhereHistoryKey" value="HashMap&#9;FILE&#9;jar://D:/devsoft/java/jdk/1.11/lib/src.zip!/java.base/java/util/HashMap.java&#10;LRUCache&#9;PSI&#9;JAVA://org.graalvm.compiler.replacements.SnippetTemplate.LRUCache&#10;LRUC&#9;FILE&#9;jar://D:/respository_study/org/mybatis/mybatis/3.5.6/mybatis-3.5.6.jar!/org/apache/ibatis/cache/decorators/LruCache.class&#10;MyBatis&#9;FILE&#9;jar://D:/respository_study/org/mybatis/mybatis/3.5.6/mybatis-3.5.6.jar!/META-INF/maven/org.mybatis/mybatis&#10;ConcurrentHashMap&#9;PSI&#9;JAVA://java.util.concurrent.ConcurrentHashMap&#10;RateLimiter&#9;PSI&#9;JAVA://com.google.common.util.concurrent.RateLimiter&#10;ProxyGenerator&#9;PSI&#9;JAVA://java.lang.reflect.ProxyGenerator&#10;ThreadLocal&#9;FILE&#9;jar://D:/devsoft/java/jdk/1.11/lib/src.zip!/java.base/java/lang/ThreadLocal.java&#10;AbstractBoo&#9;PSI&#9;JAVA://io.netty.bootstrap.AbstractBootstrap&#10;LocalCache&#9;PSI&#9;JAVA://com.google.common.cache.LocalCache&#10;PointRange&#9;PSI&#9;JAVA://org.apache.lucene.search.PointRangeQuery&#10;BitSet&#9;PSI&#9;JAVA://java.util.BitSet&#10;IntStream&#9;PSI&#9;JAVA://java.util.stream.IntStream&#10;BloomFilter&#9;FILE&#9;jar://D:/respository_study/com/google/guava/guava/28.2-jre/guava-28.2-jre-sources.jar!/com/google/common/hash/BloomFilter.java&#10;ReentrantLock&#9;FILE&#9;jar://D:/devsoft/java/jdk/1.8/src.zip!/java/util/concurrent/locks/ReentrantLock.java&#10;Mutex&#9;FILE&#9;jar://D:/devsoft/java/jdk/1.8/src.zip!/com/sun/corba/se/impl/orbutil/concurrent/Mutex.java&#10;Lock&#9;FILE&#9;jar://D:/devsoft/java/jdk/1.8/jre/lib/rt.jar!/sun/misc/Lock.class&#10;Suggest&#9;PSI&#9;JAVA://org.elasticsearch.search.suggest.Suggest&#10;Lucene&#9;PSI&#9;JAVA://org.elasticsearch.common.lucene.Lucene&#10;Executors&#9;PSI&#9;JAVA://java.util.concurrent.Executors&#10;ArrayContainer&#9;PSI&#9;JAVA://org.roaringbitmap.ArrayContainer&#10;AbstractPatriciaTrie&#9;PSI&#9;JAVA://org.apache.commons.collections4.trie.AbstractPatriciaTrie&#10;Patri&#9;PSI&#9;JAVA://org.elasticsearch.common.path.PathTrie&#10;AtomicInt&#9;PSI&#9;JAVA://javabase.AtomicIntegerTest&#10;SoftRe&#9;PSI&#9;JAVA://java.lang.ref.SoftReference&#10;Cleaner&#9;PSI&#9;JAVA://java.lang.ref.Cleaner&#10;Integer&#9;FILE&#9;jar://D:/devsoft/java/jdk/1.11/lib/src.zip!/java.base/java/lang/Integer.java&#10;AbstracList&#9;PSI&#9;JAVA://java.util.AbstractList&#10;EventBus&#9;PSI&#9;JAVA://com.google.common.eventbus.EventBus&#10;processWorkerExit&#9;PSI&#9;JAVA://java.util.concurrent.ThreadPoolExecutor#processWorkerExit&#10;ArrayList&#9;PSI&#9;JAVA://java.util.ArrayList&#10;CyclicBarrier&#9;PSI&#9;JAVA://juc.CyclicBarrierDemo&#10;CountDownL&#9;PSI&#9;JAVA://juc.CountDownLatchDemo&#10;Arrays&#9;FILE&#9;jar://D:/devsoft/java/jdk/1.8/src.zip!/java/util/Arrays.java&#10;Synchron&#9;PSI&#9;JAVA://com.google.common.collect.Synchronized&#10;BeanConfig&#9;PSI&#9;JAVA://org.springframework.beans.factory.wiring.BeanConfigurerSupport&#10;Thread&#9;FILE&#9;jar://D:/devsoft/java/jdk/1.8/src.zip!/java/util/concurrent/ThreadPoolExecutor.java&#10;AnnotationAsync&#9;PSI&#9;JAVA://org.springframework.scheduling.annotation.AnnotationAsyncExecutionInterceptor&#10;TaskExecutor&#9;PSI&#9;JAVA://org.springframework.core.task.TaskExecutor&#10;Future&#9;FILE&#9;jar://D:/devsoft/java/jdk/1.8/jre/lib/rt.jar!/java/util/concurrent/Future.class&#10;ThreadPoolEx&#9;PSI&#9;JAVA://java.util.concurrent.ThreadPoolExecutor&#10;Runn&#9;FILE&#9;jar://D:/devsoft/java/jdk/1.8/src.zip!/java/lang/Runnable.java&#10;Calla&#9;PSI&#9;JAVA://java.util.concurrent.Callable&#10;Stack&#9;PSI&#9;JAVA://io.netty.util.Recycler.Stack&#10;Supp&#9;FILE&#9;jar://D:/devsoft/java/jdk/1.8/src.zip!/java/util/function/Supplier.java&#10;ForkJoinPool&#9;PSI&#9;JAVA://java.util.concurrent.ForkJoinPool&#10;Comple&#9;FILE&#9;jar://D:/devsoft/java/jdk/1.8/src.zip!/java/util/concurrent/CompletableFuture.java&#10;Complete&#9;PSI&#9;JAVA://sun.nio.ch.CompletedFuture&#10;Supplier&#9;FILE&#9;jar://D:/devsoft/java/jdk/1.8/src.zip!/java/util/function/Supplier.java&#10;Obj&#9;FILE&#9;jar://D:/devsoft/java/jdk/1.8/src.zip!/java/lang/Object.java" />
-    <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit5" />
-    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5" value="" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../scf/scf-spring-boot" />
-    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
-    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
-    <property name="project.structure.last.edited" value="Project" />
-    <property name="project.structure.proportion" value="0.15" />
-    <property name="project.structure.side.proportion" value="0.46373627" />
-    <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
-  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "/Users/dingaimin/study/study_demo",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "MavenSettings",
+    "spring.configuration.checksum": "de5416f383293278e0f9eb3979ea1223"
+  }
+}]]></component>
   <component name="RecentsManager">
-    <key name="CreateTestDialog.RecentsKey">
-      <recent name="design.behavioral.strategy" />
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="utils" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\workspace\study\study_demo" />
+      <recent name="D:\workspace\study\study_demo\src\main\java\leetcode" />
+      <recent name="D:\workspace\study\study_demo\src\main\java\date" />
+      <recent name="D:\workspace\study\study_demo\src\main\java\design\behavioral\template" />
     </key>
     <key name="CreateTestDialog.Recents.Supers">
       <recent name="" />
     </key>
     <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="leetcode.array" />
+      <recent name="design.behavioral.strategy" />
+    </key>
+    <key name="CreateTestDialog.RecentsKey">
       <recent name="design.behavioral.strategy" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
@@ -146,15 +115,6 @@
       <recent name="leetcode" />
       <recent name="dsp" />
     </key>
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="D:\workspace\study\study_demo" />
-      <recent name="D:\workspace\study\study_demo\src\main\java\leetcode" />
-      <recent name="D:\workspace\study\study_demo\src\main\java\date" />
-      <recent name="D:\workspace\study\study_demo\src\main\java\design\behavioral\template" />
-    </key>
-    <key name="CreateClassDialog.RecentsKey">
-      <recent name="utils" />
-    </key>
   </component>
   <component name="RestServicesNavigator">
     <treeState>
@@ -162,14 +122,14 @@
       <select />
     </treeState>
   </component>
-  <component name="RunManager" selected="JUnit.NumberTest.test2">
-    <configuration name="IntegerReverse" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="leetcode.num.IntegerReverse" />
+  <component name="RunManager" selected="Application.CompareVersion">
+    <configuration name="BinarySearch2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="leetcode.BinarySearch2" />
       <module name="study_demo" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="leetcode.num.*" />
+          <option name="PATTERN" value="leetcode.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -177,13 +137,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TwoSum3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="leetcode.num.TwoSum3" />
+    <configuration name="CompareVersion" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="leetcode.CompareVersion" />
       <module name="study_demo" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="leetcode.num.*" />
+          <option name="PATTERN" value="leetcode.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -197,16 +157,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="volatileTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="javabase.volatileTest" />
+    <configuration name="Base64Test.listTset" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="study_demo" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="javabase.*" />
+          <option name="PATTERN" value="date.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
+      <option name="PACKAGE_NAME" value="date" />
+      <option name="MAIN_CLASS_NAME" value="date.Base64Test" />
+      <option name="METHOD_NAME" value="listTset" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -262,22 +225,23 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.TwoSum3" />
-      <item itemvalue="Application.IntegerReverse" />
-      <item itemvalue="Application.volatileTest" />
+      <item itemvalue="Application.BinarySearch2" />
+      <item itemvalue="Application.CompareVersion" />
+      <item itemvalue="JUnit.Base64Test.listTset" />
       <item itemvalue="JUnit.NumberTest.test3" />
       <item itemvalue="JUnit.NumberTest.test2" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.CompareVersion" />
+        <item itemvalue="Application.BinarySearch2" />
+        <item itemvalue="JUnit.Base64Test.listTset" />
         <item itemvalue="JUnit.NumberTest.test2" />
         <item itemvalue="JUnit.NumberTest.test3" />
-        <item itemvalue="Application.volatileTest" />
-        <item itemvalue="Application.IntegerReverse" />
-        <item itemvalue="Application.TwoSum3" />
       </list>
     </recent_temporary>
   </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -511,6 +475,9 @@
       <workItem from="1609920626811" duration="2373000" />
       <workItem from="1609988197654" duration="175000" />
       <workItem from="1609989444469" duration="16000" />
+      <workItem from="1660124851841" duration="479000" />
+      <workItem from="1660125571038" duration="845000" />
+      <workItem from="1705980436434" duration="1638000" />
     </task>
     <servers />
   </component>
@@ -527,7 +494,7 @@
     </todo-panel>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
-    <option name="version" value="1" />
+    <option name="version" value="3" />
   </component>
   <component name="Vcs.Log.History.Properties">
     <option name="COLUMN_ORDER">
@@ -539,135 +506,16 @@
       </list>
     </option>
   </component>
-  <component name="WindowStateProjectService">
-    <state x="445" y="-845" key="#com.intellij.ide.util.MemberChooser" timestamp="1613978192990">
-      <screen x="-320" y="-1080" width="1920" height="1040" />
-    </state>
-    <state x="478" y="-845" key="#com.intellij.ide.util.MemberChooser/0.0.1366.728/-287.-1080.1920.1040@-287.-1080.1920.1040" timestamp="1611484625677" />
-    <state x="544" y="159" key="#com.intellij.ide.util.MemberChooser/0.0.1366.728/-287.-1080.1920.1040@0.0.1366.728" timestamp="1613388729674" />
-    <state x="445" y="-845" key="#com.intellij.ide.util.MemberChooser/0.0.1366.728/-320.-1080.1920.1040@-320.-1080.1920.1040" timestamp="1613978192990" />
-    <state x="452" y="-702" width="441" height="293" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1612749122377">
-      <screen x="-287" y="-1080" width="1920" height="1040" />
-    </state>
-    <state x="452" y="-702" width="441" height="293" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1366.728/-287.-1080.1920.1040@-287.-1080.1920.1040" timestamp="1612749122377" />
-    <state x="403" y="-814" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1613464131401">
-      <screen x="-287" y="-1080" width="1920" height="1040" />
-    </state>
-    <state x="403" y="-814" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1366.728/-287.-1080.1920.1040@-287.-1080.1920.1040" timestamp="1613464131401" />
-    <state x="414" y="-637" key="#xdebugger.evaluate" timestamp="1613743203217">
-      <screen x="-287" y="-1080" width="1920" height="1040" />
-    </state>
-    <state x="414" y="-637" key="#xdebugger.evaluate/0.0.1366.728/-287.-1080.1920.1040@-287.-1080.1920.1040" timestamp="1613743203217" />
-    <state width="473" height="466" key="DebuggerActiveHint" timestamp="1611484849191">
-      <screen x="-287" y="-1080" width="1920" height="1040" />
-    </state>
-    <state width="473" height="466" key="DebuggerActiveHint/0.0.1366.728/-287.-1080.1920.1040@-287.-1080.1920.1040" timestamp="1611484849191" />
-    <state x="452" y="-806" key="FileChooserDialogImpl" timestamp="1611020043305">
-      <screen x="-287" y="-1080" width="1920" height="1040" />
-    </state>
-    <state x="452" y="-806" key="FileChooserDialogImpl/0.0.1366.728/-287.-1080.1920.1040@-287.-1080.1920.1040" timestamp="1611020043305" />
-    <state x="419" y="-806" key="FileChooserDialogImpl/0.0.1366.728/-320.-1080.1920.1040@-320.-1080.1920.1040" timestamp="1610428992392" />
-    <state width="1323" height="120" key="GridCell.Tab.0.bottom" timestamp="1615428120709">
-      <screen x="0" y="0" width="1366" height="728" />
-    </state>
-    <state width="1877" height="198" key="GridCell.Tab.0.bottom/0.0.1366.728/-287.-1080.1920.1040@-287.-1080.1920.1040" timestamp="1613743767022" />
-    <state width="1323" height="308" key="GridCell.Tab.0.bottom/0.0.1366.728/-287.-1080.1920.1040@0.0.1366.728" timestamp="1613206224120" />
-    <state width="1877" height="183" key="GridCell.Tab.0.bottom/0.0.1366.728/-320.-1080.1920.1040@-320.-1080.1920.1040" timestamp="1613978296572" />
-    <state width="1323" height="120" key="GridCell.Tab.0.bottom/0.0.1366.728/-320.-1080.1920.1040@0.0.1366.728" timestamp="1615428120709" />
-    <state width="1323" height="233" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1615369992205" />
-    <state width="1323" height="120" key="GridCell.Tab.0.center" timestamp="1615428120709">
-      <screen x="0" y="0" width="1366" height="728" />
-    </state>
-    <state width="1877" height="198" key="GridCell.Tab.0.center/0.0.1366.728/-287.-1080.1920.1040@-287.-1080.1920.1040" timestamp="1613743767021" />
-    <state width="1323" height="308" key="GridCell.Tab.0.center/0.0.1366.728/-287.-1080.1920.1040@0.0.1366.728" timestamp="1613206224119" />
-    <state width="1877" height="183" key="GridCell.Tab.0.center/0.0.1366.728/-320.-1080.1920.1040@-320.-1080.1920.1040" timestamp="1613978296571" />
-    <state width="1323" height="120" key="GridCell.Tab.0.center/0.0.1366.728/-320.-1080.1920.1040@0.0.1366.728" timestamp="1615428120709" />
-    <state width="1323" height="233" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1615369992204" />
-    <state width="1323" height="120" key="GridCell.Tab.0.left" timestamp="1615428120709">
-      <screen x="0" y="0" width="1366" height="728" />
-    </state>
-    <state width="1877" height="198" key="GridCell.Tab.0.left/0.0.1366.728/-287.-1080.1920.1040@-287.-1080.1920.1040" timestamp="1613743767021" />
-    <state width="1323" height="308" key="GridCell.Tab.0.left/0.0.1366.728/-287.-1080.1920.1040@0.0.1366.728" timestamp="1613206224119" />
-    <state width="1877" height="183" key="GridCell.Tab.0.left/0.0.1366.728/-320.-1080.1920.1040@-320.-1080.1920.1040" timestamp="1613978296570" />
-    <state width="1323" height="120" key="GridCell.Tab.0.left/0.0.1366.728/-320.-1080.1920.1040@0.0.1366.728" timestamp="1615428120709" />
-    <state width="1323" height="233" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1615369992204" />
-    <state width="1323" height="120" key="GridCell.Tab.0.right" timestamp="1615428120709">
-      <screen x="0" y="0" width="1366" height="728" />
-    </state>
-    <state width="1877" height="198" key="GridCell.Tab.0.right/0.0.1366.728/-287.-1080.1920.1040@-287.-1080.1920.1040" timestamp="1613743767022" />
-    <state width="1323" height="308" key="GridCell.Tab.0.right/0.0.1366.728/-287.-1080.1920.1040@0.0.1366.728" timestamp="1613206224120" />
-    <state width="1877" height="183" key="GridCell.Tab.0.right/0.0.1366.728/-320.-1080.1920.1040@-320.-1080.1920.1040" timestamp="1613978296571" />
-    <state width="1323" height="120" key="GridCell.Tab.0.right/0.0.1366.728/-320.-1080.1920.1040@0.0.1366.728" timestamp="1615428120709" />
-    <state width="1323" height="233" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1615369992204" />
-    <state width="1877" height="251" key="GridCell.Tab.1.bottom" timestamp="1613743411355">
-      <screen x="-287" y="-1080" width="1920" height="1040" />
-    </state>
-    <state width="1877" height="251" key="GridCell.Tab.1.bottom/0.0.1366.728/-287.-1080.1920.1040@-287.-1080.1920.1040" timestamp="1613743411355" />
-    <state width="1323" height="308" key="GridCell.Tab.1.bottom/0.0.1366.728/-287.-1080.1920.1040@0.0.1366.728" timestamp="1613206224879" />
-    <state width="1877" height="234" key="GridCell.Tab.1.bottom/0.0.1366.728/-320.-1080.1920.1040@-320.-1080.1920.1040" timestamp="1612232161691" />
-    <state width="1877" height="155" key="GridCell.Tab.1.bottom/0.0.1366.728/-320.-1080.1920.1040@0.0.1366.728" timestamp="1611283678153" />
-    <state width="1877" height="251" key="GridCell.Tab.1.center" timestamp="1613743411355">
-      <screen x="-287" y="-1080" width="1920" height="1040" />
-    </state>
-    <state width="1877" height="251" key="GridCell.Tab.1.center/0.0.1366.728/-287.-1080.1920.1040@-287.-1080.1920.1040" timestamp="1613743411355" />
-    <state width="1323" height="308" key="GridCell.Tab.1.center/0.0.1366.728/-287.-1080.1920.1040@0.0.1366.728" timestamp="1613206224879" />
-    <state width="1877" height="234" key="GridCell.Tab.1.center/0.0.1366.728/-320.-1080.1920.1040@-320.-1080.1920.1040" timestamp="1612232161691" />
-    <state width="1877" height="155" key="GridCell.Tab.1.center/0.0.1366.728/-320.-1080.1920.1040@0.0.1366.728" timestamp="1611283678152" />
-    <state width="1877" height="251" key="GridCell.Tab.1.left" timestamp="1613743411354">
-      <screen x="-287" y="-1080" width="1920" height="1040" />
-    </state>
-    <state width="1877" height="251" key="GridCell.Tab.1.left/0.0.1366.728/-287.-1080.1920.1040@-287.-1080.1920.1040" timestamp="1613743411354" />
-    <state width="1323" height="308" key="GridCell.Tab.1.left/0.0.1366.728/-287.-1080.1920.1040@0.0.1366.728" timestamp="1613206224879" />
-    <state width="1877" height="234" key="GridCell.Tab.1.left/0.0.1366.728/-320.-1080.1920.1040@-320.-1080.1920.1040" timestamp="1612232161691" />
-    <state width="1877" height="155" key="GridCell.Tab.1.left/0.0.1366.728/-320.-1080.1920.1040@0.0.1366.728" timestamp="1611283678152" />
-    <state width="1877" height="251" key="GridCell.Tab.1.right" timestamp="1613743411355">
-      <screen x="-287" y="-1080" width="1920" height="1040" />
-    </state>
-    <state width="1877" height="251" key="GridCell.Tab.1.right/0.0.1366.728/-287.-1080.1920.1040@-287.-1080.1920.1040" timestamp="1613743411355" />
-    <state width="1323" height="308" key="GridCell.Tab.1.right/0.0.1366.728/-287.-1080.1920.1040@0.0.1366.728" timestamp="1613206224879" />
-    <state width="1877" height="234" key="GridCell.Tab.1.right/0.0.1366.728/-320.-1080.1920.1040@-320.-1080.1920.1040" timestamp="1612232161691" />
-    <state width="1877" height="155" key="GridCell.Tab.1.right/0.0.1366.728/-320.-1080.1920.1040@0.0.1366.728" timestamp="1611283678152" />
-    <state x="153" y="-986" key="SettingsEditor" timestamp="1610771993756">
-      <screen x="-287" y="-1080" width="1920" height="1040" />
-    </state>
-    <state x="153" y="-986" key="SettingsEditor/0.0.1366.728/-287.-1080.1920.1040@-287.-1080.1920.1040" timestamp="1610771993756" />
-    <state x="485" y="183" width="582" height="367" key="StructurePopup" timestamp="1615362279885">
-      <screen x="0" y="0" width="1366" height="728" />
-    </state>
-    <state x="394" y="-819" width="582" height="524" key="StructurePopup/0.0.1366.728/-287.-1080.1920.1040@-287.-1080.1920.1040" timestamp="1611500730755" />
-    <state x="361" y="-819" width="582" height="524" key="StructurePopup/0.0.1366.728/-320.-1080.1920.1040@-320.-1080.1920.1040" timestamp="1614150266681" />
-    <state x="485" y="183" width="582" height="367" key="StructurePopup/0.0.1366.728/-320.-1080.1920.1040@0.0.1366.728" timestamp="1615362279885" />
-    <state x="345" y="-984" width="997" height="688" maximized="true" key="dock-window-1" timestamp="1613137272478">
-      <screen x="-287" y="-1080" width="1920" height="1040" />
-    </state>
-    <state x="0" y="0" width="1382" height="812" key="dock-window-1/0.0.1366.728/-287.-1080.1920.1040@-287.-1080.1920.1040" timestamp="1611477854387" />
-    <state x="345" y="-984" width="997" height="688" maximized="true" key="dock-window-1/0.0.1366.728/-287.-1080.1920.1040@0.0.1366.728" timestamp="1613137272478" />
-    <state x="0" y="0" width="1382" height="812" key="dock-window-1/0.0.1366.728/-320.-1080.1920.1040@-320.-1080.1920.1040" timestamp="1610343833148" />
-    <state x="144" y="-1080" width="997" height="688" maximized="true" key="dock-window-2" timestamp="1613181541025">
-      <screen x="-287" y="-1080" width="1920" height="1040" />
-    </state>
-    <state x="0" y="0" width="1382" height="812" key="dock-window-2/0.0.1366.728/-287.-1080.1920.1040@-287.-1080.1920.1040" timestamp="1611462261735" />
-    <state x="144" y="-1080" width="997" height="688" maximized="true" key="dock-window-2/0.0.1366.728/-287.-1080.1920.1040@0.0.1366.728" timestamp="1613181541025" />
-    <state x="0" y="0" width="1382" height="812" key="dock-window-3" timestamp="1611471506586">
-      <screen x="0" y="0" width="1366" height="728" />
-    </state>
-    <state x="0" y="0" width="1382" height="812" key="dock-window-3/0.0.1366.728/-287.-1080.1920.1040@-287.-1080.1920.1040" timestamp="1611471506586" />
-    <state x="14" y="-951" key="new project wizard" timestamp="1610428994267">
-      <screen x="-320" y="-1080" width="1920" height="1040" />
-    </state>
-    <state x="14" y="-951" key="new project wizard/0.0.1366.728/-320.-1080.1920.1040@-320.-1080.1920.1040" timestamp="1610428994267" />
-    <state x="329" y="-299" key="run.anything.popup" timestamp="1611472103613">
-      <screen x="-287" y="-1080" width="1920" height="1040" />
-    </state>
-    <state x="329" y="-299" key="run.anything.popup/0.0.1366.728/-287.-1080.1920.1040@-287.-1080.1920.1040" timestamp="1611472103613" />
-    <state x="438" y="121" width="672" height="474" key="search.everywhere.popup" timestamp="1615367562919">
-      <screen x="0" y="0" width="1366" height="728" />
-    </state>
-    <state x="329" y="-907" width="672" height="676" key="search.everywhere.popup/0.0.1366.728/-287.-1080.1920.1040@-287.-1080.1920.1040" timestamp="1612096866533" />
-    <state x="438" y="121" width="672" height="474" key="search.everywhere.popup/0.0.1366.728/-287.-1080.1920.1040@0.0.1366.728" timestamp="1613143499753" />
-    <state x="296" y="-907" width="672" height="676" key="search.everywhere.popup/0.0.1366.728/-320.-1080.1920.1040@-320.-1080.1920.1040" timestamp="1614148990717" />
-    <state x="438" y="121" width="672" height="474" key="search.everywhere.popup/0.0.1366.728/-320.-1080.1920.1040@0.0.1366.728" timestamp="1615362164818" />
-    <state x="438" y="121" width="672" height="474" key="search.everywhere.popup/0.0.1366.728@0.0.1366.728" timestamp="1615367562919" />
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
