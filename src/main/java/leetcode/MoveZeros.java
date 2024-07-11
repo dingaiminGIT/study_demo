@@ -10,7 +10,7 @@ package leetcode;
  * 说明:
  *
  * 必须在原数组上操作，不能拷贝额外的数组。
- * 尽量减少操作次数。
+ * 尽量减少操作次数。gg
  */
 public class MoveZeros {
 
