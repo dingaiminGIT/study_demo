@@ -24,7 +24,7 @@
   <component name="ChangeListManager">
     <list default="true" id="fa30ade8-2a83-4298-b1cd-1f805449746f" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/leetcode/Trim816.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/leetcode/Trim816.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/leetcode/string/NetNum.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/leetcode/string/NetNum.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -72,13 +72,20 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="preferences.keymap" />
   </component>
-  <component name="RunManager" selected="Application.Trim816">
-    <configuration name="LruCache" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="leetcode.LruCache" />
+  <component name="RecentsManager">
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="leetcode.linkedlist" />
+      <recent name="leetcode.linkedhashmap" />
+      <recent name="leetcode.string" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.FindUniqChar">
+    <configuration name="FindUniqChar" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="leetcode.string.FindUniqChar" />
       <module name="study_demo" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="leetcode.*" />
+          <option name="PATTERN" value="leetcode.string.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -86,12 +93,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="jvm.loadclass.Main" />
+    <configuration name="LruCache" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="leetcode.linkedhashmap.LruCache" />
       <module name="study_demo" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="jvm.loadclass.*" />
+          <option name="PATTERN" value="leetcode.string.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -112,12 +119,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SortListNode" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="leetcode.linkedlist.SortListNode" />
+    <configuration name="NetNum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="leetcode.string.NetNum" />
       <module name="study_demo" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="leetcode.linkedlist.*" />
+          <option name="PATTERN" value="leetcode.string.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -126,11 +133,11 @@
       </method>
     </configuration>
     <configuration name="Trim816" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="leetcode.Trim816" />
+      <option name="MAIN_CLASS_NAME" value="leetcode.string.Trim816" />
       <module name="study_demo" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="leetcode.*" />
+          <option name="PATTERN" value="leetcode.string.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -153,11 +160,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.FindUniqChar" />
+        <item itemvalue="Application.NetNum" />
         <item itemvalue="Application.Trim816" />
         <item itemvalue="Application.LruCache" />
         <item itemvalue="Application.MyClassLoaderTest" />
-        <item itemvalue="Application.Main" />
-        <item itemvalue="Application.SortListNode" />
       </list>
     </recent_temporary>
   </component>
@@ -178,7 +185,7 @@
       <updated>1721914181124</updated>
       <workItem from="1721914182927" duration="768000" />
       <workItem from="1722072247382" duration="6806000" />
-      <workItem from="1722152465731" duration="5600000" />
+      <workItem from="1722152465731" duration="7065000" />
     </task>
     <servers />
   </component>
@@ -199,42 +206,50 @@
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state x="486" y="102" key="#com.intellij.ide.util.MemberChooser/0.0.1440.900@0.0.1440.900" timestamp="1722139279241" />
-    <state width="1388" height="223" key="GridCell.Tab.0.bottom" timestamp="1722351336120">
+    <state x="393" y="184" key="#com.intellij.ide.util.PackageChooserDialog" timestamp="1722352016109">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1388" height="223" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1722351336120" />
+    <state x="393" y="184" key="#com.intellij.ide.util.PackageChooserDialog/0.0.1440.900@0.0.1440.900" timestamp="1722352016109" />
+    <state x="455" y="300" width="530" height="312" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1722352017528">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="455" y="300" width="530" height="312" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1440.900@0.0.1440.900" timestamp="1722352017528" />
+    <state width="1388" height="277" key="GridCell.Tab.0.bottom" timestamp="1722352934353">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1388" height="277" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1722352934353" />
     <state width="1388" height="223" key="GridCell.Tab.0.bottom/0.25.1440.875@0.25.1440.875" timestamp="1722140595422" />
-    <state width="1388" height="223" key="GridCell.Tab.0.center" timestamp="1722351336120">
+    <state width="1388" height="277" key="GridCell.Tab.0.center" timestamp="1722352934353">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1388" height="223" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1722351336120" />
+    <state width="1388" height="277" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1722352934353" />
     <state width="1388" height="223" key="GridCell.Tab.0.center/0.25.1440.875@0.25.1440.875" timestamp="1722140595421" />
-    <state width="1388" height="223" key="GridCell.Tab.0.left" timestamp="1722351336119">
+    <state width="1388" height="277" key="GridCell.Tab.0.left" timestamp="1722352934353">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1388" height="223" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1722351336119" />
+    <state width="1388" height="277" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1722352934353" />
     <state width="1388" height="223" key="GridCell.Tab.0.left/0.25.1440.875@0.25.1440.875" timestamp="1722140595420" />
-    <state width="1388" height="223" key="GridCell.Tab.0.right" timestamp="1722351336120">
+    <state width="1388" height="277" key="GridCell.Tab.0.right" timestamp="1722352934353">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1388" height="223" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1722351336120" />
+    <state width="1388" height="277" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1722352934353" />
     <state width="1388" height="223" key="GridCell.Tab.0.right/0.25.1440.875@0.25.1440.875" timestamp="1722140595421" />
-    <state width="1388" height="277" key="GridCell.Tab.1.bottom" timestamp="1722350439205">
+    <state width="1388" height="277" key="GridCell.Tab.1.bottom" timestamp="1722352934354">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1388" height="277" key="GridCell.Tab.1.bottom/0.0.1440.900@0.0.1440.900" timestamp="1722350439205" />
-    <state width="1388" height="277" key="GridCell.Tab.1.center" timestamp="1722350439204">
+    <state width="1388" height="277" key="GridCell.Tab.1.bottom/0.0.1440.900@0.0.1440.900" timestamp="1722352934354" />
+    <state width="1388" height="277" key="GridCell.Tab.1.center" timestamp="1722352934354">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1388" height="277" key="GridCell.Tab.1.center/0.0.1440.900@0.0.1440.900" timestamp="1722350439204" />
-    <state width="1388" height="277" key="GridCell.Tab.1.left" timestamp="1722350439204">
+    <state width="1388" height="277" key="GridCell.Tab.1.center/0.0.1440.900@0.0.1440.900" timestamp="1722352934354" />
+    <state width="1388" height="277" key="GridCell.Tab.1.left" timestamp="1722352934354">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1388" height="277" key="GridCell.Tab.1.left/0.0.1440.900@0.0.1440.900" timestamp="1722350439204" />
-    <state width="1388" height="277" key="GridCell.Tab.1.right" timestamp="1722350439204">
+    <state width="1388" height="277" key="GridCell.Tab.1.left/0.0.1440.900@0.0.1440.900" timestamp="1722352934354" />
+    <state width="1388" height="277" key="GridCell.Tab.1.right" timestamp="1722352934354">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1388" height="277" key="GridCell.Tab.1.right/0.0.1440.900@0.0.1440.900" timestamp="1722350439204" />
+    <state width="1388" height="277" key="GridCell.Tab.1.right/0.0.1440.900@0.0.1440.900" timestamp="1722352934354" />
     <state x="0" y="0" width="1216" height="900" key="SettingsEditor" timestamp="1722140343460">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
