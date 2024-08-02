@@ -1,4 +1,4 @@
-package leetcode;
+package leetcode.array;
 
 /**
  * 盛水最多的容器

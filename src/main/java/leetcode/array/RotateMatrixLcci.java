@@ -1,4 +1,4 @@
-package leetcode;
+package leetcode.array;
 
 /**
  * 旋转数组

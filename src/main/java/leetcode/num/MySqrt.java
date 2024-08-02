@@ -1,4 +1,4 @@
-package leetcode;
+package leetcode.num;
 
 /**
  * x 的平方根

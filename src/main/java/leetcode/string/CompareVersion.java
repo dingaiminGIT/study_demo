@@ -1,4 +1,4 @@
-package leetcode;
+package leetcode.string;
 
 /**
  * 比较版本号

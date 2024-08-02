@@ -1,4 +1,4 @@
-package leetcode;
+package leetcode.array;
 
 /**
  * 合并两个有序数组

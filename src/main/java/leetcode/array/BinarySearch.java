@@ -1,4 +1,4 @@
-package leetcode;
+package leetcode.array;
 
 /**
  * 二分查找

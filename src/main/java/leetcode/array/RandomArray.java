@@ -1,4 +1,4 @@
-package leetcode;
+package leetcode.array;
 
 /**
  * 实现扑克牌洗牌操作-即打乱数组

@@ -1,4 +1,4 @@
-package leetcode;
+package leetcode.num;
 
 /**
  * 斐波那契数

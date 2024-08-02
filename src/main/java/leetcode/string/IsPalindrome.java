@@ -1,4 +1,4 @@
-package leetcode;
+package leetcode.string;
 
 /**
  * 验证回文串

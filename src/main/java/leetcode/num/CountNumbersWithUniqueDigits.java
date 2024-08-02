@@ -1,4 +1,4 @@
-package leetcode;
+package leetcode.num;
 
 /**
  * 计算各个位数不同的数字个数
