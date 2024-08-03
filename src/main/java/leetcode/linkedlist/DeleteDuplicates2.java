@@ -1,7 +1,7 @@
 package leetcode.linkedlist;
 
 /**
- * 82. 删除排序链表中的重复元素 II
+ * 82. 删除排序链表中的重复元素 II 与 I的区别是，I会留下重复的数字，但 II要把重复的数字全删掉https://leetcode-cn.com/problems/remove-duplicates-from-sorted-list-ii/
  * https://leetcode-cn.com/problems/remove-duplicates-from-sorted-list-ii/
  *
  * 给定一个排序链表，删除所有含有重复数字的节点，只保留原始链表中 没有重复出现 的数字。
