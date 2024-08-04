@@ -70,6 +70,7 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.FindKthLargest.executor": "Run",
     "Application.IntegerReverse.executor": "Run",
     "Application.IsValidBST.executor": "Run",
     "Application.SortedArrayToBST.executor": "Run",
@@ -93,7 +94,7 @@
       <recent name="leetcode.string" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.IsValidBST">
+  <component name="RunManager" selected="Application.FindKthLargest">
     <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
       <option name="arquillianRunConfiguration">
         <value>
@@ -107,12 +108,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="IntegerReverse" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="leetcode.num.IntegerReverse" />
+    <configuration name="FindKthLargest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="leetcode.heap.FindKthLargest" />
       <module name="study_demo" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="leetcode.num.*" />
+          <option name="PATTERN" value="leetcode.heap.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -180,11 +181,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.FindKthLargest" />
         <item itemvalue="Application.IsValidBST" />
         <item itemvalue="Application.SortedArrayToBST" />
         <item itemvalue="JUnit.VertTest.test02" />
         <item itemvalue="JUnit.VertTest.test01" />
-        <item itemvalue="Application.IntegerReverse" />
       </list>
     </recent_temporary>
   </component>
@@ -211,7 +212,7 @@
       <workItem from="1722664645384" duration="35000" />
       <workItem from="1722664686985" duration="7341000" />
       <workItem from="1722738451085" duration="260000" />
-      <workItem from="1722738724028" duration="6711000" />
+      <workItem from="1722738724028" duration="8183000" />
     </task>
     <servers />
   </component>
