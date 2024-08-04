@@ -71,6 +71,7 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Application.IntegerReverse.executor": "Run",
+    "Application.IsValidBST.executor": "Run",
     "Application.SortedArrayToBST.executor": "Run",
     "JUnit.VertTest.test01.executor": "Run",
     "JUnit.VertTest.test02.executor": "Run",
@@ -91,7 +92,7 @@
       <recent name="leetcode.string" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.SortedArrayToBST">
+  <component name="RunManager" selected="Application.IsValidBST">
     <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
       <option name="arquillianRunConfiguration">
         <value>
@@ -105,12 +106,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="FindUniqChar" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="leetcode.string.FindUniqChar" />
+    <configuration name="IntegerReverse" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="leetcode.num.IntegerReverse" />
       <module name="study_demo" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="leetcode.string.*" />
+          <option name="PATTERN" value="leetcode.num.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -118,12 +119,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="IntegerReverse" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="leetcode.num.IntegerReverse" />
+    <configuration name="IsValidBST" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="leetcode.tree.IsValidBST" />
       <module name="study_demo" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="leetcode.num.*" />
+          <option name="PATTERN" value="leetcode.tree.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -178,11 +179,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.IsValidBST" />
         <item itemvalue="Application.SortedArrayToBST" />
         <item itemvalue="JUnit.VertTest.test02" />
         <item itemvalue="JUnit.VertTest.test01" />
         <item itemvalue="Application.IntegerReverse" />
-        <item itemvalue="Application.FindUniqChar" />
       </list>
     </recent_temporary>
   </component>
@@ -209,7 +210,7 @@
       <workItem from="1722664645384" duration="35000" />
       <workItem from="1722664686985" duration="7341000" />
       <workItem from="1722738451085" duration="260000" />
-      <workItem from="1722738724028" duration="383000" />
+      <workItem from="1722738724028" duration="1334000" />
     </task>
     <servers />
   </component>
