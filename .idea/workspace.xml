@@ -74,6 +74,7 @@
     "Application.IntegerReverse.executor": "Run",
     "Application.IsValidBST.executor": "Run",
     "Application.SortedArrayToBST.executor": "Run",
+    "Application.TopKFrequent.executor": "Run",
     "JUnit.VertTest.test01.executor": "Run",
     "JUnit.VertTest.test02.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
@@ -94,7 +95,7 @@
       <recent name="leetcode.string" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.FindKthLargest">
+  <component name="RunManager" selected="Application.TopKFrequent">
     <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
       <option name="arquillianRunConfiguration">
         <value>
@@ -147,18 +148,15 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="VertTest.test01" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="TopKFrequent" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="leetcode.heap.TopKFrequent" />
       <module name="study_demo" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="vertx.*" />
+          <option name="PATTERN" value="leetcode.heap.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="vertx" />
-      <option name="MAIN_CLASS_NAME" value="vertx.VertTest" />
-      <option name="METHOD_NAME" value="test01" />
-      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -181,11 +179,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.TopKFrequent" />
         <item itemvalue="Application.FindKthLargest" />
         <item itemvalue="Application.IsValidBST" />
         <item itemvalue="Application.SortedArrayToBST" />
         <item itemvalue="JUnit.VertTest.test02" />
-        <item itemvalue="JUnit.VertTest.test01" />
       </list>
     </recent_temporary>
   </component>
@@ -212,7 +210,7 @@
       <workItem from="1722664645384" duration="35000" />
       <workItem from="1722664686985" duration="7341000" />
       <workItem from="1722738451085" duration="260000" />
-      <workItem from="1722738724028" duration="8183000" />
+      <workItem from="1722738724028" duration="9971000" />
     </task>
     <servers />
   </component>
