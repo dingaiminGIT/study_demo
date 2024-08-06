@@ -24,7 +24,6 @@
   <component name="ChangeListManager">
     <list default="true" id="fa30ade8-2a83-4298-b1cd-1f805449746f" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/leetcode/string/ValidParentheses.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/leetcode/stack/ValidParentheses.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -50,17 +49,13 @@
   <component name="MavenImportPreferences">
     <option name="generalSettings">
       <MavenGeneralSettings>
-        <option name="customMavenHome" value="$APPLICATION_HOME_DIR$/plugins/maven/lib/maven3" />
-        <option name="mavenHomeTypeForPersistence" value="CUSTOM" />
+        <option name="mavenHome" value="$APPLICATION_HOME_DIR$/plugins/maven/lib/maven3" />
       </MavenGeneralSettings>
     </option>
   </component>
   <component name="ProjectCodeStyleSettingsMigration">
-    <option name="version" value="2" />
+    <option name="version" value="1" />
   </component>
-  <component name="ProjectColorInfo">{
-  &quot;associatedIndex&quot;: 3
-}</component>
   <component name="ProjectId" id="2jjxF7MiFmB0uugS9pEPcmId3ld" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="1" id="Add" />
@@ -69,27 +64,13 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Application.FindKthLargest.executor": "Run",
-    "Application.IntegerReverse.executor": "Run",
-    "Application.IsValidBST.executor": "Run",
-    "Application.SortedArrayToBST.executor": "Run",
-    "Application.TopKFrequent.executor": "Run",
-    "Application.Triangle.executor": "Run",
-    "JUnit.VertTest.test01.executor": "Run",
-    "JUnit.VertTest.test02.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "kotlin-language-version-configured": "true",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "settings.editor.selected.configurable": "preferences.pluginManager",
-    "vue.rearranger.settings.migration": "true"
-  }
-}]]></component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
   <component name="RecentsManager">
     <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
       <recent name="leetcode.linkedlist" />
@@ -97,7 +78,72 @@
       <recent name="leetcode.string" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Triangle">
+  <component name="RunManager" selected="Application.FindUniqChar">
+    <configuration name="FindUniqChar" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="leetcode.string.FindUniqChar" />
+      <module name="study_demo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="leetcode.string.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LruCache" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="leetcode.linkedhashmap.LruCache" />
+      <module name="study_demo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="leetcode.string.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MyClassLoaderTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="jvm.loadclass.MyClassLoaderTest" />
+      <module name="study_demo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="jvm.loadclass.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="NetNum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="leetcode.string.NetNum" />
+      <module name="study_demo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="leetcode.string.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Trim816" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="leetcode.string.Trim816" />
+      <module name="study_demo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="leetcode.string.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
       <option name="arquillianRunConfiguration">
         <value>
@@ -111,78 +157,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="FindKthLargest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="leetcode.heap.FindKthLargest" />
-      <module name="study_demo" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="leetcode.heap.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="IsValidBST" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="leetcode.tree.IsValidBST" />
-      <module name="study_demo" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="leetcode.tree.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="SortedArrayToBST" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="leetcode.tree.SortedArrayToBST" />
-      <module name="study_demo" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="leetcode.tree.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="TopKFrequent" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="leetcode.heap.TopKFrequent" />
-      <module name="study_demo" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="leetcode.heap.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Triangle" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="leetcode.array.Triangle" />
-      <module name="study_demo" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="leetcode.array.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Triangle" />
-        <item itemvalue="Application.TopKFrequent" />
-        <item itemvalue="Application.FindKthLargest" />
-        <item itemvalue="Application.IsValidBST" />
-        <item itemvalue="Application.SortedArrayToBST" />
+        <item itemvalue="Application.FindUniqChar" />
+        <item itemvalue="Application.NetNum" />
+        <item itemvalue="Application.Trim816" />
+        <item itemvalue="Application.LruCache" />
+        <item itemvalue="Application.MyClassLoaderTest" />
       </list>
     </recent_temporary>
   </component>
@@ -197,24 +178,15 @@
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="fa30ade8-2a83-4298-b1cd-1f805449746f" name="Changes" comment="" />
       <created>1721914181124</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1721914181124</updated>
       <workItem from="1721914182927" duration="768000" />
       <workItem from="1722072247382" duration="6806000" />
-      <workItem from="1722152465731" duration="7065000" />
-      <workItem from="1722663087468" duration="20000" />
-      <workItem from="1722664645384" duration="35000" />
-      <workItem from="1722664686985" duration="7341000" />
-      <workItem from="1722738451085" duration="260000" />
-      <workItem from="1722738724028" duration="11997000" />
+      <workItem from="1722152465731" duration="14096000" />
     </task>
     <servers />
-  </component>
-  <component name="TypeScriptGeneratedFilesManager">
-    <option name="version" value="3" />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
@@ -226,16 +198,72 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/thread/ThreadUtils.java</url>
-          <line>17</line>
-          <option name="timeStamp" value="1" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
+  <component name="WindowStateProjectService">
+    <state x="486" y="102" key="#com.intellij.ide.util.MemberChooser" timestamp="1722139279241">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="486" y="102" key="#com.intellij.ide.util.MemberChooser/0.0.1440.900@0.0.1440.900" timestamp="1722139279241" />
+    <state x="393" y="184" key="#com.intellij.ide.util.PackageChooserDialog" timestamp="1722352016109">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="393" y="184" key="#com.intellij.ide.util.PackageChooserDialog/0.0.1440.900@0.0.1440.900" timestamp="1722352016109" />
+    <state x="455" y="300" width="530" height="312" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1722352017528">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="455" y="300" width="530" height="312" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1440.900@0.0.1440.900" timestamp="1722352017528" />
+    <state width="1388" height="223" key="GridCell.Tab.0.bottom" timestamp="1722353200941">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1388" height="223" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1722353200941" />
+    <state width="1388" height="223" key="GridCell.Tab.0.bottom/0.25.1440.875@0.25.1440.875" timestamp="1722140595422" />
+    <state width="1388" height="223" key="GridCell.Tab.0.center" timestamp="1722353200940">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1388" height="223" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1722353200940" />
+    <state width="1388" height="223" key="GridCell.Tab.0.center/0.25.1440.875@0.25.1440.875" timestamp="1722140595421" />
+    <state width="1388" height="223" key="GridCell.Tab.0.left" timestamp="1722353200940">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1388" height="223" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1722353200940" />
+    <state width="1388" height="223" key="GridCell.Tab.0.left/0.25.1440.875@0.25.1440.875" timestamp="1722140595420" />
+    <state width="1388" height="223" key="GridCell.Tab.0.right" timestamp="1722353200941">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1388" height="223" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1722353200941" />
+    <state width="1388" height="223" key="GridCell.Tab.0.right/0.25.1440.875@0.25.1440.875" timestamp="1722140595421" />
+    <state width="1388" height="277" key="GridCell.Tab.1.bottom" timestamp="1722352934354">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1388" height="277" key="GridCell.Tab.1.bottom/0.0.1440.900@0.0.1440.900" timestamp="1722352934354" />
+    <state width="1388" height="277" key="GridCell.Tab.1.center" timestamp="1722352934354">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1388" height="277" key="GridCell.Tab.1.center/0.0.1440.900@0.0.1440.900" timestamp="1722352934354" />
+    <state width="1388" height="277" key="GridCell.Tab.1.left" timestamp="1722352934354">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1388" height="277" key="GridCell.Tab.1.left/0.0.1440.900@0.0.1440.900" timestamp="1722352934354" />
+    <state width="1388" height="277" key="GridCell.Tab.1.right" timestamp="1722352934354">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1388" height="277" key="GridCell.Tab.1.right/0.0.1440.900@0.0.1440.900" timestamp="1722352934354" />
+    <state x="0" y="0" width="1216" height="900" key="SettingsEditor" timestamp="1722868727325">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="0" y="0" width="1216" height="900" key="SettingsEditor/0.0.1440.900@0.0.1440.900" timestamp="1722868727325" />
+    <state x="382" y="137" width="675" height="655" key="StructurePopup" timestamp="1722138641880">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="382" y="137" width="675" height="655" key="StructurePopup/0.0.1440.900@0.0.1440.900" timestamp="1722138641880" />
+    <state x="358" y="142" width="723" height="616" key="find.popup" timestamp="1722349007220">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="358" y="142" width="723" height="616" key="find.popup/0.0.1440.900@0.0.1440.900" timestamp="1722349007220" />
+    <state x="301" y="0" width="838" height="1032" key="search.everywhere.popup" timestamp="1722138728504">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="301" y="0" width="838" height="1032" key="search.everywhere.popup/0.0.1440.900@0.0.1440.900" timestamp="1722138728504" />
   </component>
 </project>
