@@ -1,6 +1,10 @@
-package leetcode.string;
+package leetcode.stack;
 
-import java.util.*;
+import java.util.Deque;
+import java.util.HashMap;
+import java.util.LinkedList;
+import java.util.Map;
+import java.util.Stack;
 
 /**
  * 有效的括号
@@ -14,7 +18,7 @@ public class ValidParentheses {
     }
 
     /**
-     * // 方法1 用栈，将左括号如栈，遇到右括号，看栈顶元素是否匹配
+     * // 方法1 用栈，将左括号入栈，遇到右括号，看栈顶元素是否匹配
      *
      * @param s
      * @return
@@ -22,23 +26,23 @@ public class ValidParentheses {
     public static boolean isValid(String s) {
         int n = s.length();
         // 如果是奇数，直接返回
-        if((n &1)==1) {
+        if ((n & 1) == 1) { // 也可以用 n%2=1
             return false;
         }
 
         // 存放右括号-> 左括号的映射
         Map<Character, Character> map = new HashMap<>();
         map.put(')', '(');
-        map.put('}','{');
-        map.put(']','[');
+        map.put('}', '{');
+        map.put(']', '[');
 
         // 栈
         Deque<Character> stack = new LinkedList<>();
-        for(int i = 0; i < n; i++) {
+        for (int i = 0; i < n; i++) {
             char c = s.charAt(i);
             // 如果是右括号，如果栈为空或者栈顶元素不是和该右括号匹配的左括号，返回false
-            if(map.containsKey(c)) {
-                if(stack.isEmpty() || stack.peek().equals(map.get(c))) {
+            if (map.containsKey(c)) {
+                if (stack.isEmpty() || !stack.peek().equals(map.get(c))) {
                     return false;
                 }
                 // 如果匹配，就将栈顶的左括号出栈
@@ -63,7 +67,7 @@ public class ValidParentheses {
     public static boolean isValid2(String s) {
         int n = s.length();
         // 如果是奇数，直接返回
-        if((n &1)==1) {
+        if ((n & 1) == 1) {
             return false;
         }
 
@@ -75,7 +79,9 @@ public class ValidParentheses {
                 stack.push(']');
             } else if (c == '{') {
                 stack.push('}');
+                // 走到下面说明是右括号
             } else if (stack.isEmpty() || c != stack.pop()) {
+                // 如果栈为空，说明没有匹配的左括号，或者该右括号与从栈顶取出的不一样，返回 false
                 return false;
             }
         }

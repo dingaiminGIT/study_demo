@@ -55,6 +55,31 @@ public class LowestCommonAncestor2 {
     }
 
     /**
+     * 在 2 个基础上优化下写法
+     *
+     * @param root
+     * @param p
+     * @param q
+     * @return
+     */
+    public TreeNode lowestCommonAncestor3(TreeNode root, TreeNode p, TreeNode q) {
+        // 递归终止条件
+        if (root == null || root == p || root == q) {
+            return root;
+        }
+        TreeNode left = lowestCommonAncestor3(root.left, p, q);
+        TreeNode right = lowestCommonAncestor3(root.right, p, q);
+
+        // 如果左右都能找到p或q，说明当前节点就是最近公共祖先
+        if (left != null && right != null) {
+            return root;
+        }
+        // 如果只有一个能找到p或q，那么最近公共祖先就是能找到的那个节点
+        return left == null ? right : left;
+
+    }
+
+    /**
      * 存储父节点
      * 用哈希表存储所有节点的父节点，然后利用节点的父节点信息从 p 节点不断往上跳，并记录已经访问过的节点
      * 再从 q 节点不断往上跳，如果碰到已经访问过的节点，那么这个节点就是最近公共祖先

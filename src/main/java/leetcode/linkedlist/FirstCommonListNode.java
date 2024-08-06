@@ -6,7 +6,7 @@ package leetcode.linkedlist;
  * https://leetcode-cn.com/problems/liang-ge-lian-biao-de-di-yi-ge-gong-gong-jie-dian-lcof/
  *
  * 优秀解决 https://leetcode-cn.com/problems/liang-ge-lian-biao-de-di-yi-ge-gong-gong-jie-dian-lcof/solution/shuang-zhi-zhen-fa-lang-man-xiang-yu-by-ml-zimingm/
- *
+ * 我走过你走过的路，必定相遇
  *
  * @author: dingaimin
  * @date: 2021/1/16 23:17

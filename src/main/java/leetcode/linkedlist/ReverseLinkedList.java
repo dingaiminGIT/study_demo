@@ -42,13 +42,13 @@ public class ReverseLinkedList {
         ListNode pre = null;
         ListNode cur = head;
         while(cur != null) {
-            // 记录当前节点的下一个节点
+            // 记录当前节点的下一个节点，暂存后继节点
             ListNode tmp = cur.next;
-            // 将当前节点指向 pre
+            // 将当前节点指向 pre，修改next引用指向
             cur.next = pre;
             // pre 和 cur 前进一步
-            pre = cur;
-            cur = tmp;
+            pre = cur;// pre暂存cur
+            cur = tmp;// cur指向下一个阶段
         }
         return pre;
     }

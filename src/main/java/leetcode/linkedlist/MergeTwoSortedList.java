@@ -5,7 +5,7 @@ package leetcode.linkedlist;
  *
  * @author: dingaimin
  * @date: 2021/1/7 13:41
- * https://leetcode-cn.com/problems/merge-two-sorted-lists/
+     * https://leetcode-cn.com/problems/merge-two-sorted-lists/
  */
 public class MergeTwoSortedList {
 
