@@ -5,7 +5,7 @@ import java.util.Stack;
 /**
  * 用栈实现队列
  * https://leetcode-cn.com/problems/implement-queue-using-stacks/
- *
+ * UC信息流 1 面
  * 队列：先进先出
  * 栈：后进先出
  * 要想满足队列的FIFO特性，需要用到两个栈。一个用来反转元素的入队顺序，另一个用来存储元素的最终顺序
