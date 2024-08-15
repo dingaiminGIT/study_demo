@@ -174,18 +174,18 @@ public class DateUtils {
     }
 
     public static void main(String[] args) throws ParseException {
-        /*String str1 = "20201013";
+        String str1 = "20201013";
         String str2 = "20201014";
         long l = differentDays(str2, str1);
-        System.out.println(l);*/
+        System.out.println(l);
 
-       /* SimpleDateFormat sdf = new SimpleDateFormat("yyyyMMdd");
-        String str1 = "20201010";
-        String s = addDate(sdf.parse(str1), -1);
-        System.out.println(s);*/
+        SimpleDateFormat sdf = new SimpleDateFormat("yyyyMMdd");
+        String str4 = "20201010";
+        String s = addDate(sdf.parse(str4), -1);
+        System.out.println(s);
 
 
-        /*String startHour = "20201015";
+        String startHour = "20201015";
         String endHour = "20201015";
         System.out.println(startHour.compareTo(endHour) > 0);
 
@@ -193,8 +193,7 @@ public class DateUtils {
         SimpleDateFormat dateFormat = new SimpleDateFormat("yyyyMMdd");
         Date dt = dateFormat.parse("20201023");
         System.out.println(dt);
-*/
-        /*long t1 = System.currentTimeMillis();
+        long t1 = System.currentTimeMillis();
 
         String time_scale = "[\"10\",\"11\",\"14\",\"15\",\"16\",\"17\",\"18\",\"19\",\"110\",\"111\",\"112\",\"113\",\"114\",\"115\",\"116\",\"117\",\"118\",\"119\",\"120\",\"121\",\"122\",\"123\",\"20\",\"21\",\"24\",\"25\",\"26\",\"27\",\"28\",\"29\",\"210\",\"211\",\"212\",\"213\",\"214\",\"215\",\"216\",\"217\",\"218\",\"219\",\"220\",\"221\",\"222\",\"223\",\"30\",\"31\",\"34\",\"35\",\"36\",\"37\",\"38\",\"39\",\"310\",\"311\",\"312\",\"313\",\"314\",\"315\",\"316\",\"317\",\"318\",\"319\",\"320\",\"321\",\"322\",\"323\",\"40\",\"41\",\"44\",\"45\",\"46\",\"47\",\"48\",\"49\",\"410\",\"411\",\"412\",\"413\",\"414\",\"415\",\"416\",\"417\",\"418\",\"419\",\"420\",\"421\",\"422\",\"423\",\"50\",\"51\",\"54\",\"55\",\"56\",\"57\",\"58\",\"59\",\"510\",\"511\",\"512\",\"513\",\"514\",\"515\",\"516\",\"517\",\"518\",\"519\",\"520\",\"521\",\"522\",\"523\",\"60\",\"61\",\"64\",\"65\",\"66\",\"67\",\"68\",\"69\",\"610\",\"611\",\"612\",\"613\",\"614\",\"615\",\"616\",\"617\",\"618\",\"619\",\"620\",\"621\",\"622\",\"623\",\"00\",\"01\",\"04\",\"05\",\"06\",\"07\",\"08\",\"09\",\"010\",\"011\",\"012\",\"013\",\"014\",\"015\",\"016\",\"017\",\"018\",\"019\",\"020\",\"021\",\"022\",\"023\"]";
         String dspDate = DateUtils.getDspDate();
@@ -247,6 +246,6 @@ public class DateUtils {
         System.out.println("剩余时间的10分钟个数：" + (a + b));
 
         long t4 = System.currentTimeMillis();
-        System.out.println("总耗时：" + (t4 - t1));*/
+        System.out.println("总耗时：" + (t4 - t1));
     }
 }
