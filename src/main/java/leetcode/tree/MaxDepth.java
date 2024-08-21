@@ -1,6 +1,5 @@
 package leetcode.tree;
 
-import apple.laf.JRSUIUtils.Tree;
 import java.util.LinkedList;
 import java.util.Queue;
 import java.util.Stack;
@@ -22,6 +21,8 @@ import java.util.Stack;
  *     /  \
  *    15   7
  * 返回它的最大深度 3 。
+ *
+ * 搭配二叉树右视图 https://leetcode-cn.com/problems/binary-tree-right-side-view
  *
  * @author: dingaimin
  * @date: 2021/2/22 21:02
@@ -61,10 +62,12 @@ public class MaxDepth {
         Queue<TreeNode> queue = new LinkedList<>();
         queue.offer(root);
         int ans = 0;
+        // 层次遍历
         while (!queue.isEmpty()) {
             // 将队列中所有节点都拿出来扩展
             int size = queue.size();
             while (size > 0) {
+                // 处理当前层的所有节点，通过 size 控制处理当前层的节点
                 TreeNode node = queue.poll();
                 if (node.left != null) {
                     queue.offer(node.left);
@@ -74,6 +77,7 @@ public class MaxDepth {
                 }
                 size--;
             }
+            // 跳出来的时候，说明当前层已经处理完了，可以加 1 了，继续进入上一层的while循环处理下一层
             ans++;
         }
         return ans;

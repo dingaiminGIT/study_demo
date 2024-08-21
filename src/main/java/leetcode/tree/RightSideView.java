@@ -31,6 +31,42 @@ public class RightSideView {
 
     List<Integer> res = new ArrayList<>();
 
+
+    /**
+     * 和二叉树的最大深度类似，层序遍历，每层第一个节点加入结果集
+     *
+     * @param root
+     * @return
+     */
+    public List<Integer> rightSideView3(TreeNode root) {
+        List<Integer> res = new ArrayList<>();
+        if(root == null) {
+            return res;
+        }
+
+        Queue<TreeNode> queue = new LinkedList<>();
+        queue.offer(root);
+        while(!queue.isEmpty()) {
+            int size = queue.size();
+            int count = 0;
+            while(count < size) {
+                TreeNode node = queue.poll();
+                if(node.right != null) {
+                    queue.offer(node.right);
+                }
+                if(node.left != null) {
+                    queue.offer(node.left);
+                }
+                // 将当前层的第一个节点加入结果集中
+                if(count == 0) {
+                    res.add(node.val);
+                }
+                count++;
+            }
+        }
+        return res;
+    }
+
     /**
      * https://leetcode-cn.com/problems/binary-tree-right-side-view/solution/jian-dan-bfsdfs-bi-xu-miao-dong-by-sweetiee/
      * BFS，利用 BFS 进行层序遍历，记录每层的最后一个元素
