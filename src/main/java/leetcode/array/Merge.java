@@ -24,6 +24,7 @@ public class Merge {
 
     /**
      * 思路：按照区间左端点进行排序，然后合并区间，可以合并的区间一定是连续的
+     * 按照区间左端点排序（升序），然后合并区间，可以合并的区间是连续的，也就是前面的R，大于后面的L
      *
      * @param intervals
      * @return
@@ -41,11 +42,14 @@ public class Merge {
             int R = intervals[i][1];
 
             if (merged.size() == 0 || merged.get(merged.size() - 1)[1] < L) {
+                // 不能合并，直接添加的情况：没添加过或者 前面的R < 后面的L
                 merged.add(new int[]{L, R});
             } else {
+                // 可以合并，只需要修改 R值为 max(前 R 后 R)
                 merged.get(merged.size() - 1)[1] = Math.max(merged.get(merged.size() - 1)[1], R);
             }
         }
+        // List 2 数组
         return merged.toArray(new int[merged.size()][]);
     }
 }
