@@ -2,6 +2,7 @@ package leetcode.array;
 
 /**
  * 42 接雨水  困难
+ * 美团境外广告 1 面
  * https://leetcode.cn/problems/trapping-rain-water/
  */
 public class Trap {
@@ -32,7 +33,10 @@ public class Trap {
         int totalWarter = 0;
         while (left < right) {
             if (height[left] < height[right]) {
+                // 如果左边的柱子高度小于右边的柱子高度，那么左边的柱子可以接雨水，
+                // 需要计算左边的柱子可以接的雨水量。
                 if (height[left] >= leftMax) {
+                    // 如果左边的柱子高度大于左边的最大高度，这个柱子就接不了水，那么更新左边的最大高度
                     leftMax = height[left];
                 } else {
                     // 计算的是「每个位置」上可以接的雨水量
@@ -44,7 +48,10 @@ public class Trap {
                 }
                 left++;
             } else {
+                // 如果左边的柱子高度大于右边的柱子高度，那么右边的柱子可以接雨水，
+                // 需要计算右边的柱子可以接的雨水量。
                 if (height[right] >= rightMax) {
+                    // 如果右边的柱子高度大于右边的最大高度，这个柱子就接不了水，那么更新右边的最大高度
                     rightMax = height[right];
                 } else {
                     totalWarter += rightMax - height[right];
